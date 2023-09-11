@@ -72,17 +72,29 @@ section{
     color: #9b9b9b;
     
  }
- span.javacode{
+ span.code{
     color: #d2d2d2;
     display: block;
     white-space: nowrap;
     border-right: 4px solid;
+ }
+ span.code.java{
     width: 33ch;
-
     animation: typing 2s steps(33),
     blink .5s step-end infinite alternate;
     overflow: hidden;
-
+ }
+ span.code.C{
+    width: 22ch;
+    animation: typing 2s steps(22),
+    blink .5s step-end infinite alternate;
+    overflow: hidden;
+ }
+ span.code.python{
+    width: 20ch;
+    animation: typing 2s steps(20),
+    blink .5s step-end infinite alternate;
+    overflow: hidden;
  }
 @keyframes typing{
     from{
