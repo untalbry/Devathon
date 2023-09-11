@@ -1,5 +1,5 @@
 # 100 DAYS OF PROYECTS 📟
-In this challenge I will do a software project every day to improve my technical skills as a BACKEND and FRONTEND developer, I will achieve my goals by practicing every day because practice makes perfect
+In this challenge I will do a software project every day to improve my technical skills as a BACKEND and FRONTEND developer,I will achieve my goals by practicing every day because practice makes perfect<br><br>
 I'll use these languages and technologies:
 <p align="center"> 
   <!--HTML5-->
