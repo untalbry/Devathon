@@ -1,4 +1,4 @@
-# 50 DAYS OF PROYECTS 📟
+# 100 DAYS OF PROYECTS 📟
 In this challenge I will do a software project every day to improve my technical skills as a BACKEND and FRONTEND developer, I will achieve my goals by practicing every day because practice makes perfect
 
 <p align="center">
@@ -6,10 +6,10 @@ In this challenge I will do a software project every day to improve my technical
 </p>
 
 ## Lets start 💻
-I won't do 50 directories for this challenge by my own hand, so i decided to do a bash script to do that for me: 
+I won't do 100 directories for this challenge by my own hand, so i decided to do a bash script to do that for me: 
 ```bash
 #!/bin/bash
-for i in {1..50}
+for i in {1..100}
 do 
     mkdir "DAY$i"
 done
