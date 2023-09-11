@@ -15,7 +15,10 @@ do
 done
 ```
 ## To do list ✅
-|Day   | Challenge      | Status |Date        |
-|:----:| :-------------:|:------:|:----------:|
-|   1  | Hello word     |✅     | 11/09/2003 |
+<div style="text-align: center">
 
+| Day  | Challenge   | Status |Date       |
+|------|-------------|--------|-----------|
+|  1   | Hello word  |✅     | 11/09/2003|
+
+</div>
