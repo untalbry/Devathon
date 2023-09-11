@@ -23,18 +23,35 @@ section{
     
  }
  /*   Iconos  */
- .icon-blue{
+ .icon{
     width: 10px;
     height: 10px;
-    background-color: #007bff; /* Cambia el color de fondo según tus preferencias */
     border-radius: 50%; /* Hace que los iconos sean circulares */
     margin-right: 10px; /* Agrega margen a la derecha para espaciar los iconos */
     transition: background-color 0.2s; /* Transición para el hover */
  }
- .icon-blue:hover {
-    background-color: #00477a; /* Cambia el color de fondo en el hover */
+ .icon:hover {
     cursor: pointer; /* Cambia el cursor al pasar el mouse */
 }
+.icon.blue{
+    background-color: #88baa3; /* Cambia el color de fondo según tus preferencias */
+
+}
+.icon.red{
+    background-color: #ba1e4a; /* Cambia el color de fondo según tus preferencias */
+
+}.icon.yellow{
+    background-color: #c39304; /* Cambia el color de fondo según tus preferencias */
+}
+.icon.red:hover {
+    background-color: #75132f; 
+}
+.icon.blue:hover {
+    background-color: #5e8070; 
+}.icon.icon.yellow:hover {
+    background-color: #7f6004; 
+}
+
  .terminal_txt{
     width: 400px;
     height: 150px;
