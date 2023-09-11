@@ -68,11 +68,27 @@ section{
     font-weight: bold;
     display: flex;
  }
- .code{
-    color: #dceeff;
-    font-size: 12px;
+ span.coment{
+    color: #9b9b9b;
+    
+ }
+ span.javacode{
+    color: #d2d2d2;
     display: block;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width: 33ch;
+
+    animation: typing 2s steps(33),
+    blink .5s step-end infinite alternate;
+    overflow: hidden;
+
  }
- .code span{
-    color: #f99531;
- }
+@keyframes typing{
+    from{
+        width: 0;
+    }
+}
+@keyframes blink{
+    50% { border-color: transparent;}
+}
