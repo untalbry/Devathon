@@ -56,3 +56,6 @@ section{
     font-size: 12px;
     display: block;
  }
+ .code span{
+    color: #f99531;
+ }
