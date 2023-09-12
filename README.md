@@ -49,5 +49,29 @@ done
 | Day  | Challenge   | Status |Date       |
 |------|-------------|--------|-----------|
 |  1   | Hello word  |✅     | 11/09/2003|
+|  2   | Business card  |💻     | |
+|  3   | Landing page with parallax effect  |❌    | |
+|  4   | Memorama |❌   ||
+|  5   | Pomodoro Timer  |❌    | |
+|  6   | Tip calculator |❌    | |
+|  7   | Programming quiz  |❌    | |
+|  8   | Password generator  |❌     | |
+|  9   | Message automation system  |❌     | |
+|  10   | Tic-tac-toe  |❌     | |
+|  11   | Telegram bot  |❌     | |
+|  12   |Snake |❌     | |
+|  13   | Paint  |❌     | |
+|  14   | API REST |❌     | |
+|  15   | App to encrypt messages  |❌     | |
+|  16   | Login  |❌     | |
+|  17   | Roll dice  |❌     | |
+|  18   | Personality test  |❌     | |
+|  19   | Página para declararle tu amor a tu crush  |❌     | |
+|  20   | Flipping Book  |❌     | |
+|  21  |  |❌    | |
+|  22   |   |❌     | |
+|  23   |   |❌     | |
+|  24   |   |❌     | |
+|  25   |   |❌    | |
 
 </div>
