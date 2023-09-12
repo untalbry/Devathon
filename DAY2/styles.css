@@ -1,0 +1,65 @@
+body{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    background-color: #121212;
+    font-family: monospace;
+}
+.card{
+    width: 480px;
+    height: 200px;
+    background-color: #0c312d;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.front{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.txt{
+    display: block;
+    width: 200px;
+    height: 100%;
+
+}
+h2{
+    color: #dbdbdb;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+h3{
+    color: #dbdbdb;
+    font-size: 15px;
+    margin-top: 0px; 
+}
+.skills{
+    display: flex;
+    color: #3daa9f;
+    width: 100%;
+
+
+}
+.skills a{
+    margin-right: 20px;
+}
+.skills a:hover{
+    color: #44ffec;
+
+}
+img{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    margin-right: 20px;
+     margin-top: 20px;
+}
+.social-media{
+    display: flex;
+    padding-bottom: 10px;
+    align-items: center;
+    flex-direction: column;
+
+}
