@@ -1,15 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;800&display=swap');
 body{
     height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;    
-    background-color: #121212;
-    font-family: monospace;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1402%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(23%2c 28%2c 41%2c 1)'%3e%3c/rect%3e%3cpath d='M797.35 100.68L837.86 100.68L837.86 141.19L797.35 141.19z' fill='rgba(199%2c 151%2c 56%2c 1)'%3e%3c/path%3e%3cpath d='M41.12 381.67 a10.59 10.59 0 1 0 21.18 0 a10.59 10.59 0 1 0 -21.18 0z' fill='rgba(199%2c 151%2c 56%2c 1)'%3e%3c/path%3e%3cpath d='M1374.59 337.94L1423.9 337.94L1423.9 387.25L1374.59 387.25z' fill='rgba(214%2c 89%2c 58%2c 1)'%3e%3c/path%3e%3cpath d='M1344.19 375.53 a52.67 52.67 0 1 0 105.34 0 a52.67 52.67 0 1 0 -105.34 0z' fill='rgba(199%2c 151%2c 56%2c 1)'%3e%3c/path%3e%3cpath d='M13.73 522.78 a30.15 30.15 0 1 0 60.3 0 a30.15 30.15 0 1 0 -60.3 0z' fill='rgba(214%2c 89%2c 58%2c 1)'%3e%3c/path%3e%3cpath d='M1161.21 225.91L1208.93 225.91L1208.93 273.63L1161.21 273.63z' fill='rgba(214%2c 89%2c 58%2c 1)'%3e%3c/path%3e%3cpath d='M1107.25 402.22L1110.91 402.22L1110.91 427.87L1107.25 427.87z' stroke='rgba(199%2c 151%2c 56%2c 1)'%3e%3c/path%3e%3cpath d='M1036.56 178.04L1075.58 178.04L1075.58 185.79L1036.56 185.79z' stroke='rgba(214%2c 89%2c 58%2c 1)'%3e%3c/path%3e%3cpath d='M927.29 405.09 a4.2 4.2 0 1 0 8.4 0 a4.2 4.2 0 1 0 -8.4 0z' stroke='rgba(214%2c 89%2c 58%2c 1)'%3e%3c/path%3e%3cpath d='M988.06 129.42a25.22 25.22 0 1 0 15.23 48.09z' fill='rgba(199%2c 151%2c 56%2c 1)'%3e%3c/path%3e%3cpath d='M1179.69 114.48L1208.84 114.48L1208.84 143.63L1179.69 143.63z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M922.12 33.05L937.13 33.05L937.13 57.79L922.12 57.79z' fill='rgba(214%2c 89%2c 58%2c 1)'%3e%3c/path%3e%3cpath d='M359.51 258.71L414.99 258.71L414.99 314.19L359.51 314.19z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M1462.7 344.6a28.74 28.74 0 1 0-49.75-28.78z' fill='rgba(214%2c 89%2c 58%2c 1)'%3e%3c/path%3e%3cpath d='M662.89 188.29 a28.46 28.46 0 1 0 56.92 0 a28.46 28.46 0 1 0 -56.92 0z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M1275.55 353.21L1276.21 353.21L1276.21 375.2L1275.55 375.2z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M1213.5 499.45L1243.05 499.45L1243.05 537.67L1213.5 537.67z' stroke='rgba(214%2c 89%2c 58%2c 1)'%3e%3c/path%3e%3cpath d='M360.97 143.06a42.55 42.55 0 1 0-84.83-6.85z' fill='rgba(199%2c 151%2c 56%2c 1)'%3e%3c/path%3e%3cpath d='M186.85 250.94L214.56 250.94L214.56 278.65L186.85 278.65z' stroke='rgba(199%2c 151%2c 56%2c 1)'%3e%3c/path%3e%3cpath d='M509.65 406.47 a36.87 36.87 0 1 0 73.74 0 a36.87 36.87 0 1 0 -73.74 0z' stroke='rgba(214%2c 89%2c 58%2c 1)'%3e%3c/path%3e%3cpath d='M608.68 253.54L622.77 253.54L622.77 286.58L608.68 286.58z' fill='rgba(199%2c 151%2c 56%2c 1)'%3e%3c/path%3e%3cpath d='M738.24 240.38a36.42 36.42 0 1 0-62.82-36.87z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M640.11 16.79a19.3 19.3 0 1 0-19.53 33.29z' fill='rgba(199%2c 151%2c 56%2c 1)'%3e%3c/path%3e%3cpath d='M1177.33 467.12 a37.45 37.45 0 1 0 74.9 0 a37.45 37.45 0 1 0 -74.9 0z' stroke='rgba(199%2c 151%2c 56%2c 1)'%3e%3c/path%3e%3cpath d='M577.05 153.82L599.66 153.82L599.66 173.73L577.05 173.73z' fill='rgba(214%2c 89%2c 58%2c 1)'%3e%3c/path%3e%3cpath d='M538.24 244.8L549.37 244.8L549.37 255.93L538.24 255.93z' fill='rgba(214%2c 89%2c 58%2c 1)'%3e%3c/path%3e%3cpath d='M1121.94 136.66L1151.48 136.66L1151.48 166.2L1121.94 166.2z' stroke='rgba(214%2c 89%2c 58%2c 1)'%3e%3c/path%3e%3cpath d='M1400.18 273.13L1437.31 273.13L1437.31 281.54L1400.18 281.54z' fill='rgba(214%2c 89%2c 58%2c 1)'%3e%3c/path%3e%3cpath d='M830.63 25.57L855.15 25.57L855.15 50.09L830.63 50.09z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M555.49 305.76L558.03 305.76L558.03 308.3L555.49 308.3z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M403.95 432.79 a45.97 45.97 0 1 0 91.94 0 a45.97 45.97 0 1 0 -91.94 0z' fill='rgba(214%2c 89%2c 58%2c 1)'%3e%3c/path%3e%3cpath d='M628.64 167.42L678.71 167.42L678.71 168.85L628.64 168.85z' fill='rgba(214%2c 89%2c 58%2c 1)'%3e%3c/path%3e%3cpath d='M1175.19 388.6 a5.07 5.07 0 1 0 10.14 0 a5.07 5.07 0 1 0 -10.14 0z' stroke='rgba(199%2c 151%2c 56%2c 1)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1402'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    font-family: 'Montserrat', sans-serif;
 }
 .card{
     width: 480px;
     height: 210px;
-    background-color: #0c312d;
+    background-color: #1b1b1d;
     padding: 20px;
     border-radius: 10px;
 
@@ -36,12 +41,16 @@ body{
     margin-top: 4.5em;
 }
 h2{
-    color: #dbdbdb;
+    font-weight: 800;
+    color: #e1e1e1;
     font-size: 20px;
     margin-bottom: 0px;
+
 }
 h3{
-    color: #dbdbdb;
+    font-weight: 400;
+
+    color: #e1e1e1;
     font-size: 15px;
     margin-top: 0px; 
 }
@@ -49,21 +58,21 @@ h3{
     display: flex;
     width: 100%;
     flex-wrap: wrap;
-    color: #3daa9f;
+    color: #e1e1e1;
     margin-top: 3em;
-    margin-bottom: 2em;
-    font-size: 15px;
+    margin-bottom: 4em;
+    font-size: 12.5px;
 
 }
 .skills a{
     margin-right: 20px;
 }
 .skills a:hover{
-    color: #44ffec;
+    color: #c79738;
 
 }
 .cv{
-    background-color: #2ecaba;
+    background-color: #d15d2e;
     cursor: pointer;
     color: #fff;
     border-radius: 40px;
@@ -71,7 +80,7 @@ h3{
 }
 .cv:hover{
     cursor: pointer;
-    background-color: #31b6a8;
+    background-color: #5e74aa;
 
 }
 img{
@@ -81,9 +90,48 @@ img{
     margin-right: 20px;
     margin-top: 25px;
 }
-.social-media{
+.right{
+    position:relative;
     display: flex;
+    bottom: 20px;
     align-items: center;
     flex-direction: column;
-    margin-bottom: 10px;
+}
+.right .button{
+    height: 30px;
+    width: 30px;
+    overflow: hidden;
+    margin-bottom: 25px;
+    padding-right: 2px;
+    background-color: #5e74aa;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.2s ease-out;
+
+}
+.right .button:hover{
+    width: 100px;
+}
+.right .button .icon{
+    display: flex;
+    height: 20px;
+    width: 20px;
+}
+.right .button .icon i{
+    font-size: 20px;
+    line-height: 30px;
+    color: #fff;
+}
+.right .button span{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 30px;
+    margin-left: 7px;
+}
+.right .button .icon:last-child{
+    padding-left: 7px;
+}
+.right .button:last-child:hover{
+    width: 105px;
 }
