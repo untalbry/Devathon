@@ -8,7 +8,7 @@ body{
 }
 .card{
     width: 480px;
-    height: 200px;
+    height: 210px;
     background-color: #0c312d;
     padding: 20px;
     border-radius: 10px;
@@ -19,11 +19,21 @@ body{
     width: 100%;
     height: 100%;
 }
-.txt{
+.left{
+    width:40%;
+    height: 100%;
+}
+.center{
     display: block;
-    width: 200px;
+    width: 50%;
     height: 100%;
 
+}
+.right{
+    width: 10%;
+    height: 100%;
+    padding-right: 20px;
+    margin-top: 4.5em;
 }
 h2{
     color: #dbdbdb;
@@ -37,9 +47,12 @@ h3{
 }
 .skills{
     display: flex;
-    color: #3daa9f;
     width: 100%;
-
+    flex-wrap: wrap;
+    color: #3daa9f;
+    margin-top: 3em;
+    margin-bottom: 2em;
+    font-size: 15px;
 
 }
 .skills a{
@@ -49,17 +62,28 @@ h3{
     color: #44ffec;
 
 }
+.cv{
+    background-color: #2ecaba;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 40px;
+    padding : 6px;
+}
+.cv:hover{
+    cursor: pointer;
+    background-color: #31b6a8;
+
+}
 img{
     border-radius: 50%;
     height: 150px;
     width: 150px;
     margin-right: 20px;
-     margin-top: 20px;
+    margin-top: 25px;
 }
 .social-media{
     display: flex;
-    padding-bottom: 10px;
     align-items: center;
     flex-direction: column;
-
+    margin-bottom: 10px;
 }
