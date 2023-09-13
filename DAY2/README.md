@@ -12,6 +12,9 @@ In order to present yourself to your clients it is important to have a business 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
 </p>
+
+
+### Do you know?
 A business card is important for several reasons in the professional and business field:
 
 ### First Impression: 🙋‍♂️ 
