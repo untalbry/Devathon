@@ -49,7 +49,7 @@ done
 | Day  | Challenge   | Status |Date       |
 |------|-------------|--------|-----------|
 |  1   | Hello word  |✅     | 11/09/2023|
-|  2   | Business card  |✅   | 12/09/2023|
+|  2   | Business card  |✅   | 12/09/2023 |
 |  3   | Landing page with parallax effect  |❌    | |
 |  4   | Memorama |❌   ||
 |  5   | Pomodoro Timer  |❌    | |
