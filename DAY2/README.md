@@ -1,6 +1,17 @@
 # Business Card
 In order to present yourself to your clients it is important to have a business card. Let's do a simple one!!
 <br> <br>
+## Tools
+<p align="center">
+  <!--HTML5-->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <!--CSS3-->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+</p>
 A business card is important for several reasons in the professional and business field:
 
 ### First Impression: 🙋‍♂️ 
