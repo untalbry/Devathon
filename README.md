@@ -69,21 +69,21 @@ done
 |  4   |Binary and decimal converter |❌   ||
 |  5   | Tip calculator  |❌    | 
 |  6   |Scientific calculator |❌    | 
-|  7   | Programming quiz  |❌    | 
+|  7   | Color Visualizer  |❌    | 
 |  8   | Password generator  |❌     | 
-|  9   | Message automation system  |❌     |
-|  10   | Tic-tac-toe  |❌     | 
-|  11   | Telegram bot  |❌     | 
-|  12   |Snake |❌     | 
-|  13   | Paint  |❌     | 
-|  14   | API REST |❌     | 
-|  15   | App to encrypt messages  |❌     |
-|  16   | Login  |❌     | 
-|  17   | Roll dice  |❌     | 
-|  18   | Personality test  |❌     | 
-|  19   | Página para declararle tu amor a tu crush  |❌     | 
-|  20   | Flipping Book  |❌     | 
-|  21  |  |❌    |
+|  9   |Pomodoro timer  |❌     |
+|  10   |Encryptor/Decryptor |❌     | 
+|  11   |  Landingpage  |❌     | 
+|  12   |Tic-Tac-Toe |❌     | 
+|  13   | Memorama  |❌     | 
+|  14   | Quiz |❌     | 
+|  15   | Snake  |❌     |
+|  16   | Paint  |❌     | 
+|  17   | Speed Typing Test |❌     | 
+|  18   | ATM System  |❌     | 
+|  19   | Voting System |❌     | 
+|  20   | ORM architecture proyect |❌     | 
+|  21  | Socialmedia Clone |❌    |
 |  22   |   |❌     | 
 |  23   |   |❌     | 
 |  24   |   |❌     | 
