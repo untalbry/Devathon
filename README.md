@@ -1,5 +1,10 @@
 # 100 DAYS OF PROYECTS 📟
 In this challenge I will do a software project every day to improve my technical skills as a BACKEND and FRONTEND developer,I will achieve my goals by practicing every day because practice makes perfect<br><br>
+
+<p align="center" width="300">
+   <img align="center" width="300" src="https://github.com/xVrzBx/100Days100Proyects/assets/91161604/4a45945d-5357-4e4f-80b7-0fb4ef25dfd0" />
+</p>
+
 I'll use these languages and technologies:
 <p align="center"> 
   <!--HTML5-->
