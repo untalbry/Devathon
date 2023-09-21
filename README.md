@@ -44,7 +44,7 @@ In this challenge I will do a software project every day to improve my technical
 </p>
 
 I'll use this repo also to teach softwere develoment in my club <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>, soo im gona teach them how to code following this roadmap and for practice they will make the proyects. 
-<br> In the roadmap im adding some recomendations like <strong><a href="https://www.notion.so/">Notion</a></strong> and to read the <strong><a>Clean Code</a></strong> Book
+<br> In the roadmap im adding some recomendations like <strong><a href="https://www.notion.so/es-la/desktop">Notion</a></strong> and to read the <strong><a>Clean Code</a></strong> Book
 <p align="center">
    <img src="https://github.com/xVrzBx/100Days100Proyects/assets/91161604/50362ad8-5fb6-4166-8e32-7ff1831a0524">
 </p>
