@@ -1,6 +1,9 @@
 # 100 DAYS OF PROYECTS 📟
-In this challenge I will do a software project every day to improve my technical skills as a BACKEND and FRONTEND developer,I will achieve my goals by practicing every day because practice makes perfect<br><br>
-I'll use these languages and technologies:
+In this challenge I will do a software project every day to improve my technical skills as a <strong>BACKEND</strong> and <strong>FRONTEND</strong> developer,I will achieve my goals by practicing every day because practice makes perfect<br><br>
+
+
+
+### I'll use these languages and technologies 👇
 <p align="center"> 
   <!--HTML5-->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -34,6 +37,18 @@ I'll use these languages and technologies:
     <img src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif" >
 </p>
 
+## Binary Brains Software Developer? 
+
+<p align="center" width="300">
+   <img align="center" width="300" src="https://github.com/xVrzBx/100Days100Proyects/assets/91161604/4a45945d-5357-4e4f-80b7-0fb4ef25dfd0" />
+</p>
+
+I'll use this repo also to teach softwere develoment in my club <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>, soo im gona teach them how to code following this roadmap and for practice they will make the proyects. 
+<br> In the roadmap im adding some recomendations like <strong><a href="https://www.notion.so/es-la/desktop">Notion</a></strong> and to read the <strong><a>Clean Code</a></strong> Book
+<p align="center">
+   <img src="https://github.com/xVrzBx/100Days100Proyects/assets/91161604/50362ad8-5fb6-4166-8e32-7ff1831a0524">
+</p>
+
 ## Lets start 💻
 I won't do 100 directories for this challenge by my own hand, so i decided to do a bash script to do that for me: 
 ```bash
@@ -46,32 +61,32 @@ done
 ## To do list ✅
 <div style="text-align: center">
 
-| Day  | Challenge   | Status |Date       |
-|------|-------------|--------|-----------|
-|  1   | Hello word  |✅     | 11/09/2003|
-|  2   | Business card  |💻     | |
-|  3   | Landing page with parallax effect  |❌    | |
-|  4   | Memorama |❌   ||
-|  5   | Pomodoro Timer  |❌    | |
-|  6   | Tip calculator |❌    | |
-|  7   | Programming quiz  |❌    | |
-|  8   | Password generator  |❌     | |
-|  9   | Message automation system  |❌     | |
-|  10   | Tic-tac-toe  |❌     | |
-|  11   | Telegram bot  |❌     | |
-|  12   |Snake |❌     | |
-|  13   | Paint  |❌     | |
-|  14   | API REST |❌     | |
-|  15   | App to encrypt messages  |❌     | |
-|  16   | Login  |❌     | |
-|  17   | Roll dice  |❌     | |
-|  18   | Personality test  |❌     | |
-|  19   | Página para declararle tu amor a tu crush  |❌     | |
-|  20   | Flipping Book  |❌     | |
-|  21  |  |❌    | |
-|  22   |   |❌     | |
-|  23   |   |❌     | |
-|  24   |   |❌     | |
-|  25   |   |❌    | |
+| #  | Challenge   | Status |
+|------|-------------|--------|
+|  1   | Hello word  |✅     |
+|  2   | Business card  |✅   | 
+|  3   | Currency calculator  |❌    | 
+|  4   |Binary and decimal converter |❌   ||
+|  5   | Tip calculator  |❌    | 
+|  6   |Scientific calculator |❌    | 
+|  7   | Color Visualizer  |❌    | 
+|  8   | Password generator  |❌     | 
+|  9   |Pomodoro timer  |❌     |
+|  10   |Encryptor/Decryptor |❌     | 
+|  11   |  Landingpage  |❌     | 
+|  12   |Tic-Tac-Toe |❌     | 
+|  13   | Memorama  |❌     | 
+|  14   | Quiz |❌     | 
+|  15   | Snake  |❌     |
+|  16   | Paint  |❌     | 
+|  17   | Speed Typing Test |❌     | 
+|  18   | ATM System  |❌     | 
+|  19   | Voting System |❌     | 
+|  20   | ORM architecture proyect |❌     | 
+|  21  | Socialmedia Clone |❌    |
+|  22   |   |❌     | 
+|  23   |   |❌     | 
+|  24   |   |❌     | 
+|  25   |   |❌    |  
 
 </div>
