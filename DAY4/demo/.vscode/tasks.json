@@ -1,0 +1,22 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build",
+			"type": "shell",
+			"command": "mvn",
+			"args": [
+				"clean",
+				"package",
+				"compile",
+				"tomcat7:run"
+			],
+			"problemMatcher": [],
+			"isBackground": true,
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+	]
+}
