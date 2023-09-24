@@ -61,32 +61,76 @@ done
 ## To do list ✅
 <div style="text-align: center">
 
-| #  | Challenge   | Status |
-|------|-------------|--------|
-|  1   | Hello word  |✅     |
-|  2   | Business card  |✅   | 
-|  3   | Currency calculator  |❌    | 
-|  4   |Binary and decimal converter |❌   ||
-|  5   | Tip calculator  |❌    | 
-|  6   |Scientific calculator |❌    | 
-|  7   | Color Visualizer  |❌    | 
-|  8   | Password generator  |❌     | 
-|  9   |Pomodoro timer  |❌     |
-|  10   |Encryptor/Decryptor |❌     | 
-|  11   |  Landingpage  |❌     | 
-|  12   |Tic-Tac-Toe |❌     | 
-|  13   | Memorama  |❌     | 
-|  14   | Quiz |❌     | 
-|  15   | Snake  |❌     |
-|  16   | Paint  |❌     | 
-|  17   | Speed Typing Test |❌     | 
-|  18   | ATM System  |❌     | 
-|  19   | Voting System |❌     | 
-|  20   | ORM architecture proyect |❌     | 
-|  21  | Socialmedia Clone |❌    |
-|  22   |   |❌     | 
-|  23   |   |❌     | 
-|  24   |   |❌     | 
-|  25   |   |❌    |  
+|  #  | Challenge                        | Status |
+|----|---------------------------------|--------|
+|  1  | Hello World                     |   ✅   |
+|  2  | Business Card                   |   ✅   |
+|  3  | Currency Calculator             |      |
+|  4  | Binary and Decimal Converter    |      |
+|  5  | Calculadora de Propinas         |        |
+|  6  | Calculadora Científica          |        |
+|  7  | Color Visualizer                |        |
+|  8  | Generador de Contraseñas        |        |
+|  9  | Pomodoro Timer                  |        |
+| 10 | Encriptador/Desencriptador      |        |
+| 11 | Landing Page                    |        |
+| 12 | Simulador de Dados              |        |
+| 13 | Juego del Gato                  |        |
+| 14 | Memorama                        |        |
+| 15 | Reloj Digital                   |        |
+| 16 | Quiz                            |        |
+| 17 | Test de Personalidad            |        |
+| 18 | Monkeytype Clone                |        |
+| 19 | Rompecabezas                    |        |
+| 20 | Piedra, Papel o Tijeras         |        |
+| 21 | Snake                           |        |
+| 22 | Paint                           |        |
+| 23 | Speed Typing Test               |        |
+| 24 | ATM System                      |        |
+| 25 | Voting System                   |        |
+| 26 | Torre de Hanói                  |        |
+| 27 | Programa con Arquitectura ORM (Tema Libre) |  |
+| 28 | Blog Personal (CRUD)            |        |
+| 29 | Clon de Twitter                 |        |
+| 30 | Clon de Pinterest               |        |
+| 31 | Kahoot                          |        |
+| 32 | Gestor de Biblioteca            |        |
+| 33 | App para Encriptar Mensajes     |        |
+| 34 | To-Do List                      |        |
+| 35 | Sudoku                          |        |
+| 36 | Busca Minas                     |        |
+| 37 | Página para Declararle tu Amor a tu Crush | |
+| 38 | Ruleta                          |        |
+| 39 | Reloj Slider                    |        |
+| 40 | App de Notas                    |        |
+| 41 | Calendar App                    |        |
+| 42 | Catálogo (React)                |        |
+| 43 | Clon de Trello (React)          |        |
+| 44 | Chat en Tiempo Real (Firebase)  |        |
+| 45 | Tetris                          |        |
+| 46 | Battleship                      |        |
+| 47 | Pacman                          |        |
+| 48 | Chess                           |        |
+| 49 | Portal de Noticias              |        |
+| 50 | API REST                        |        |
+| 51 | Login Sencillo                  |        |
+| 52 | Dashboard de Lenguajes de Programación | |
+| 53 | Charity Finder                  |        |
+| 54 | Adivina la Palabra              |        |
+| 55 | Real Time Communication         |        |
+| 56 | Event Notifier                  |        |
+| 57 | Discord Bot                     |        |
+| 58 | Telegram Bot                    |        |
+| 59 | Batalla Pokémon                 |        |
+| 60 | Widget para Notion              |        |
+| 61 | Calendar Desktop Widget         |        |
+| 62 | E-commerce                      |        |
+| 63 | E-learning                      |        |
+| 64 | Reproductor de Música           |        |
+| 65 | App para Elegir Películas       |        |
+| 66 | Sistema de Reservación de Viajes |        |
+| 67 | Coding Battle                   |        |
+| 68 | Portafolio                      |        |
+
 
 </div>
