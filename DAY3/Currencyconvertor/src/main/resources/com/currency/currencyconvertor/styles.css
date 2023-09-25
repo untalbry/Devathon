@@ -22,13 +22,34 @@ CLARO: #a6b0c3
     -fx-background-color: #383a40;
     -fx-border-radius: 5px;
     -fx-border-color: #a6b0c3;
-
     -fx-prompt-text-fill: #a6b0c3;
 
 }
 .combo-box{
-    -fx-background-color: #383a40;
     -fx-border-radius: 5px;
     -fx-border-color: #a6b0c3;
+}
+.combo-box .list-cell{
+    -fx-background-color: #383a40;
+}
+
+
+.combo-box-popup .list-view .list-cell {
+    -fx-text-fill: #a6b0c3;
 
 }
+/* Estilo para el área del botón de flecha */
+.combo-box .arrow-button {
+    -fx-background-color: #383a40;
+}
+.combo-box .list-cell:selected {
+    -fx-background-color: #383a40;
+    -fx-text-fill: #a6b0c3;
+}
+.combo-box-popup .list-cell:hover {
+    -fx-background-color: #99c8ff;
+
+}
+
+
+

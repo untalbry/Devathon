@@ -19,7 +19,7 @@
    <children>
       <HBox prefHeight="25.0" prefWidth="360.0" translateX="20.0" translateY="25.0">
          <children>
-            <ComboBox prefWidth="150.0" promptText="Select Currency " />
+            <ComboBox fx:id="comboBox1" prefWidth="150.0" promptText="Select Currency " />
             <TextField fx:id="input1" promptText="Type value" translateX="20.0">
                <font>
                   <Font name="Microsoft JhengHei" size="12.0" />
@@ -28,7 +28,7 @@
       </HBox>
       <HBox prefHeight="25.0" prefWidth="360.0" translateX="20.0" translateY="30.0">
          <children>
-            <ComboBox prefWidth="150.0" promptText="Select Currency " stylesheets="@styles.css" />
+            <ComboBox fx:id="comboBox2" prefWidth="150.0" promptText="Select Currency " stylesheets="@styles.css" />
             <TextField fx:id="input2" promptText="Type value" translateX="20.0">
                <font>
                   <Font name="Microsoft JhengHei UI" size="12.0" />
