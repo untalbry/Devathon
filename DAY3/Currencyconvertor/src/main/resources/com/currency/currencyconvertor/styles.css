@@ -1,0 +1,34 @@
+/*
+OBSCURO: #1e2028
+MEDIO: #383a40
+CLARO: #a6b0c3
+ */
+#main{
+    -fx-background-color: #383a40;
+
+}
+.button{
+    -fx-background-color: #383a40;
+    -fx-border-radius: 5px;
+    -fx-border-color: #a6b0c3;
+    -fx-text-fill:  #a6b0c3;
+
+}
+.button:hover{
+    -fx-background-color: #1e2028;
+    -fx-cursor: hand;
+}
+.text-field{
+    -fx-background-color: #383a40;
+    -fx-border-radius: 5px;
+    -fx-border-color: #a6b0c3;
+
+    -fx-prompt-text-fill: #a6b0c3;
+
+}
+.combo-box{
+    -fx-background-color: #383a40;
+    -fx-border-radius: 5px;
+    -fx-border-color: #a6b0c3;
+
+}

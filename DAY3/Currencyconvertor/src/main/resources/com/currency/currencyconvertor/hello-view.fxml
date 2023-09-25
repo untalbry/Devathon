@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.*?>
+<?import javafx.scene.effect.*?>
 <?import javafx.scene.text.*?>
 <?import java.lang.*?>
 <?import javafx.geometry.*?>
@@ -10,7 +12,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.control.Button?>
 
-<VBox alignment="CENTER" maxHeight="200.0" maxWidth="400.0" minHeight="200.0" minWidth="400.0" spacing="20.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.currency.currencyconvertor.CurrencyController">
+<VBox id="main" alignment="CENTER" maxHeight="200.0" maxWidth="400.0" minHeight="200.0" minWidth="400.0" spacing="20.0" stylesheets="@styles.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.currency.currencyconvertor.CurrencyController">
     <padding>
         <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
     </padding>
@@ -18,18 +20,24 @@
       <HBox prefHeight="25.0" prefWidth="360.0" translateX="20.0" translateY="25.0">
          <children>
             <ComboBox prefWidth="150.0" promptText="Select Currency " />
-            <TextField promptText="Type value" translateX="20.0" />
+            <TextField fx:id="input1" promptText="Type value" translateX="20.0">
+               <font>
+                  <Font name="Microsoft JhengHei" size="12.0" />
+               </font></TextField>
          </children>
       </HBox>
       <HBox prefHeight="25.0" prefWidth="360.0" translateX="20.0" translateY="30.0">
          <children>
-            <ComboBox prefWidth="150.0" promptText="Select Currency " />
-            <TextField promptText="Type value" translateX="20.0" />
+            <ComboBox prefWidth="150.0" promptText="Select Currency " stylesheets="@styles.css" />
+            <TextField fx:id="input2" promptText="Type value" translateX="20.0">
+               <font>
+                  <Font name="Microsoft JhengHei UI" size="12.0" />
+               </font></TextField>
          </children>
       </HBox>
    
        <Label fx:id="welcomeText" />
-       <Button text="Convert" wrapText="true">
+       <Button onAction="#onConvertButtonClick" stylesheets="@styles.css" text="Convert" textFill="#a6b0c3" wrapText="true">
          <font>
             <Font name="Microsoft YaHei UI Light" size="14.0" />
          </font>
