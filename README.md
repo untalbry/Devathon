@@ -1,9 +1,9 @@
-# 100 DAYS OF PROYECTS 📟
-In this challenge I will do a software project every day to improve my technical skills as a <strong>BACKEND</strong> and <strong>FRONTEND</strong> developer,I will achieve my goals by practicing every day because practice makes perfect<br><br>
+# 100 DÍAS DE PROYECTOS 📟
+En este desafío harémos un proyecto de software todos los días para mejorar nuestras habilidades técnicas como desarrolladores <strong>BACKEND</strong> y <strong>FRONTEND</strong>, lograrémos estos objetivos practicando todos los días porque la práctica hace al maestro.<br><br>
 
 
 
-### I'll use these languages and technologies 👇
+### Usaremos estas tecnologías 👇
 <p align="center"> 
   <!--HTML5-->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -37,20 +37,20 @@ In this challenge I will do a software project every day to improve my technical
     <img src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif" >
 </p>
 
-## Binary Brains Software Developer? 
+## Binary Brains Club? 
 
 <p align="center" width="300">
    <img align="center" width="300" src="https://github.com/xVrzBx/100Days100Proyects/assets/91161604/4a45945d-5357-4e4f-80b7-0fb4ef25dfd0" />
 </p>
 
-I'll use this repo also to teach softwere develoment in my club <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>, soo im gona teach them how to code following this roadmap and for practice they will make the proyects. 
-<br> In the roadmap im adding some recomendations like <strong><a href="https://www.notion.so/es-la/desktop">Notion</a></strong> and to read the <strong><a>Clean Code</a></strong> Book
+Usaré este repositorio también para enseñar desarrollo de software en mi club <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>, así que voy a enséñeles a codificar siguiendo esta ruta y para practicar realizarán los proyectos.
+<br> En el roadmap estoy agregando algunas recomendaciones como <strong><a href="https://www.notion.so/es-la/desktop">Notion</a></strong> y leer el < strong><a>Código limpio</a></strong> Reservar
 <p align="center">
    <img src="https://github.com/xVrzBx/xVrzBx/assets/91161604/343bb6e7-5792-46e4-b778-46697817b4d5">
 </p>
 
-## Lets start 💻
-I won't do 100 directories for this challenge by my own hand, so i decided to do a bash script to do that for me: 
+## Vamos allá! 💻
+OK pero no voy a hacer 100 carpetas para guardar los proyectos a mano, para eso mejor hice este pequeño bash scritp: 
 ```bash
 #!/bin/bash
 for i in {1..100}
