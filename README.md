@@ -53,7 +53,7 @@ En este desafío harémos un proyecto de software todos los días para mejorar n
 </p>
 
 Usaré este repositorio también para enseñar desarrollo de software en mi club <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>, así que voy a enséñeles a codificar siguiendo esta ruta y para practicar realizarán los proyectos.
-<br> En el roadmap estoy agregando algunas recomendaciones como <strong><a href="https://www.notion.so/es-la/desktop">Notion</a></strong> y leer el < strong><a>Código limpio</a></strong> Reservar
+<br> En el roadmap estoy agregando algunas recomendaciones como <strong><a href="https://www.notion.so/es-la/desktop">Notion</a></strong> y leer el <strong><a>Código limpio</a></strong> Reservar
 <p align="center">
    <img src="https://github.com/xVrzBx/xVrzBx/assets/91161604/343bb6e7-5792-46e4-b778-46697817b4d5">
 </p>
