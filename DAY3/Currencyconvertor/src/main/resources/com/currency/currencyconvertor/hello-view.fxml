@@ -37,7 +37,7 @@
       </HBox>
    
        <Label fx:id="welcomeText" />
-       <Button onAction="#onConvertButtonClick" stylesheets="@styles.css" text="Convert" textFill="#a6b0c3" wrapText="true">
+       <Button onAction="#onConvertButtonClick" stylesheets="@styles.css" text="Clean" textFill="#a6b0c3" wrapText="true">
          <font>
             <Font name="Microsoft YaHei UI Light" size="14.0" />
          </font>

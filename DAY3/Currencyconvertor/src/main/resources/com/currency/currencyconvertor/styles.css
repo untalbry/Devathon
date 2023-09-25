@@ -23,6 +23,7 @@ CLARO: #a6b0c3
     -fx-border-radius: 5px;
     -fx-border-color: #a6b0c3;
     -fx-prompt-text-fill: #a6b0c3;
+    -fx-text-fill:#a6b0c3 ;
 
 }
 .combo-box{

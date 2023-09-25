@@ -2,6 +2,7 @@ package com.currency.currencyconvertor;
 
 
 import java.util.HashMap;
+import java.util.regex.Pattern;
 
 public class CurrencyModel {
     private Double inputValue;
@@ -25,5 +26,7 @@ public class CurrencyModel {
         relation.put("EUR-USD", 1.200);
         relation.put("EUR-EUR", 1.000);
     }
-
+    public boolean isNumer(String num){
+        return Pattern.matches("-?\\d+(\\.\\d+)?", num);
+    }
 }

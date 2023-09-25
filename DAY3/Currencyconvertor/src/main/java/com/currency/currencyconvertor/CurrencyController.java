@@ -1,11 +1,13 @@
 package com.currency.currencyconvertor;
 
+import javafx.application.Platform;
 import javafx.fxml.FXML;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 
 public class CurrencyController {
+    private CurrencyModel cm = new CurrencyModel();
     @FXML
     private Label welcomeText;
     @FXML
@@ -21,10 +23,29 @@ public class CurrencyController {
     public void initialize(){
         comboBox1.getItems().addAll("MXN", "USD", "EUR");
         comboBox2.getItems().addAll("MXN", "USD", "EUR");
+        input1.textProperty().addListener((observable, oldValue, newValue) -> {
+            if(cm.isNumer(newValue)){
+                input2.setText(newValue);
+            }else{
+                Platform.runLater(this::cleanTextFields);
+            }
+        });
+        input2.textProperty().addListener((observable, oldValue, newValue) ->{
+            if(cm.isNumer(newValue)){
+                input1.setText(newValue);
 
+            }else{
+                Platform.runLater(this::cleanTextFields);
+            }
+        });
     }
     @FXML
     protected void onConvertButtonClick() {
-        input2.setText("Hello word");
+        cleanTextFields();
     }
+    private void cleanTextFields(){
+        input1.setText("");
+        input2.setText("");
+    }
+
 }
