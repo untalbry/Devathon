@@ -31,7 +31,7 @@ public class BinaryConverterController {
     }
     @FXML
     protected void onConvertButtonClick(ActionEvent event) {
-        if(lastFocusedTextField != null){
+        if(lastFocusedTextField != null && !lastFocusedTextField.getText().isEmpty()){
             String newValue = lastFocusedTextField.getText();
             if(lastFocusedTextField == input1){
                 try{
@@ -48,6 +48,9 @@ public class BinaryConverterController {
                     warningText.setText("Valor ingresado no es un binario");
                 }
             }
+        }else{
+            warningText.setText("Ingresa un valor");
+
         }
     }
     @FXML
