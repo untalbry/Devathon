@@ -31,6 +31,6 @@ public class CurrencyModel {
     }
 
     public BigDecimal convert(BigDecimal currency) {
-        return currency.multiply(relation.get(currencyKey));
+        return currency.multiply(relation.get(currencyKey)).setScale(2, BigDecimal.ROUND_HALF_UP);
     }
 }

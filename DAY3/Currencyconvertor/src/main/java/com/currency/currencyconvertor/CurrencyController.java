@@ -63,13 +63,7 @@ public class CurrencyController {
                             cm.setCurrencyKeys(sourceComboBox.getValue(), targetComboBox.getValue());
                             BigDecimal number = new BigDecimal(newValue);
                             BigDecimal result = cm.convert(number);
-                            // Formatear el resultado a dos decimales
-                            DecimalFormatSymbols symbols = new DecimalFormatSymbols(Locale.getDefault());
-                            symbols.setDecimalSeparator('.');
-                            DecimalFormat df = new DecimalFormat("#.00", symbols);
-                            df.setRoundingMode(RoundingMode.HALF_UP);
-                            String str = df.format(result);
-                            targetInput.setText(str);
+                            targetInput.setText(result.toString());
                         });
                     }else{
                         System.out.println("Exception con : "+ newValue);
@@ -81,7 +75,7 @@ public class CurrencyController {
 
             } catch (MyException e) {
                 Platform.runLater(() -> {
-                    //cleanTextFields();
+                    cleanTextFields();
                     System.out.println(e.getMessage());
                 });
             }
