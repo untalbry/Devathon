@@ -1,0 +1,7 @@
+package com.currency.currencyconvertor;
+
+public class MyException extends Exception{
+    public MyException(String msg) {
+        super(msg);
+    }
+}
