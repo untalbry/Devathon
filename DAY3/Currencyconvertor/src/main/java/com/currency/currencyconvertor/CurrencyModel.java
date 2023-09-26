@@ -2,31 +2,34 @@ package com.currency.currencyconvertor;
 
 
 import java.util.HashMap;
-import java.util.regex.Pattern;
+
 
 public class CurrencyModel {
-    private Double inputValue;
-    private Double result;
     private String currencyKey;
     private final HashMap<String, Double> relation = new HashMap<>();
-    public CurrencyModel(){
-        result=0.0;
+
+    public CurrencyModel() {
         /*
          * Colocamos las relaciones:
-         * Si quieres añadir mas solamente colocalo en esta parte del código
-         * También colocalo en el ComboBox de la parte de vistaConversor
+         * Si quieres añadir mas solamente colócalo en esta parte del código
+         * También colócalo en el ComboBox de la parte de vistaConversor
          */
-        relation.put("MXN-USD", 0.049);
-        relation.put("MXN-EUR", 0.052);
-        relation.put("MXN-MXN", 1.000);
-        relation.put("USD-MXN", 20.280);
-        relation.put("USD-EUR", 0.840);
-        relation.put("USD-USD", 1.000);
-        relation.put("EUR-MXN", 19.180);
-        relation.put("EUR-USD", 1.200);
-        relation.put("EUR-EUR", 1.000);
+        relation.put("MXN-USD", 0.06);
+        relation.put("MXN-EUR", 0.05);
+        relation.put("MXN-MXN", 1.00);
+        relation.put("USD-MXN", 17.41);
+        relation.put("USD-EUR", 0.84);
+        relation.put("USD-USD", 1.00);
+        relation.put("EUR-MXN", 19.18);
+        relation.put("EUR-USD", 1.20);
+        relation.put("EUR-EUR", 1.00);
     }
-    public boolean isNumer(String num){
-        return Pattern.matches("-?\\d+(\\.\\d+)?", num);
+
+    public void setCurrencyKeys(String currencyKey1, String currencyKey2) {
+        currencyKey = currencyKey1 + "-" + currencyKey2;
+    }
+
+    public Double convert(Double currency) {
+        return currency * relation.get(currencyKey);
     }
 }
