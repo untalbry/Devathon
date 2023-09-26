@@ -9,16 +9,16 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.control.Button?>
 
-<VBox alignment="CENTER" maxHeight="160.0" maxWidth="380.0" minHeight="160.0" minWidth="380.0" prefHeight="160.0" prefWidth="380.0" spacing="20.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.binaryconverter.binaryconverter.HelloController">
+<VBox alignment="CENTER" maxHeight="160.0" maxWidth="380.0" minHeight="160.0" minWidth="380.0" prefHeight="160.0" prefWidth="380.0" spacing="20.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.binaryconverter.binaryconverter.BinaryConverterController">
     <padding>
         <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
     </padding>
    <children>
       <HBox prefHeight="100.0" prefWidth="200.0" translateX="5.0" translateY="50.0">
          <children>
-            <TextField prefHeight="25.0" prefWidth="100.0" promptText="Input " />
+            <TextField fx:id="input1" prefHeight="25.0" prefWidth="100.0" promptText="Input " />
             <Button maxWidth="50.0" minWidth="50.0" mnemonicParsing="false" prefWidth="50.0" text="Copy" translateX="10.0" />
-            <TextField prefHeight="25.0" prefWidth="100.0" promptText="Result" translateX="20.0" />
+            <TextField fx:id="input2" prefHeight="25.0" prefWidth="100.0" promptText="Result" translateX="20.0" />
             <Button mnemonicParsing="false" prefWidth="50.0" text="Copy" translateX="30.0" />
          </children>
       </HBox>

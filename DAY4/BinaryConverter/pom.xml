@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.binaryconverter.binaryconverter/com.binaryconverter.binaryconverter.HelloApplication
+                                com.binaryconverter.binaryconverter/com.binaryconverter.binaryconverter.BinaryConveterApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
