@@ -1,13 +1,12 @@
 package com.currency.currencyconvertor;
 
 import javafx.application.Platform;
+import javafx.beans.value.ChangeListener;
 import javafx.fxml.FXML;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
-
-
-import java.text.DecimalFormat;
+import java.math.BigDecimal;
 
 public class CurrencyController {
     private CurrencyModel cm = new CurrencyModel();
@@ -22,16 +21,36 @@ public class CurrencyController {
 
     @FXML
     private ComboBox<String> comboBox2;
-    private boolean isInput1Active = false;
+    private final ChangeListener<String> input1Listener = (obs, oldText, newText) -> {
+        handleInputChange(newText, input2, comboBox1, comboBox2);
+    };
+
+    private final ChangeListener<String> input2Listener = (obs, oldText, newText) -> {
+        handleInputChange(newText, input1, comboBox2, comboBox1);
+    };
     public void initialize(){
+
+
         comboBox1.getItems().addAll("MXN", "USD", "EUR");
         comboBox2.getItems().addAll("MXN", "USD", "EUR");
-        input1.textProperty().addListener((observable, oldValue, newValue) -> {
-            handleInputChange(newValue, input2, comboBox1, comboBox2);
+        input1.focusedProperty().addListener((observable, oldValue, newValue) -> {
+            if (newValue) {
+                // El TextField input1 tiene el foco
+                input1.textProperty().addListener(input1Listener);
+            } else {
+                // El TextField input1 no tiene el foco
+                input1.textProperty().removeListener(input1Listener);
+            }
         });
 
-        input2.textProperty().addListener((observable, oldValue, newValue) -> {
-            handleInputChange(newValue, input1, comboBox2, comboBox1);
+        input2.focusedProperty().addListener((observable, oldValue, newValue) -> {
+            if (newValue) {
+                // El TextField input2 tiene el foco
+                input2.textProperty().addListener(input2Listener);
+            } else {
+                // El TextField input2 no tiene el foco
+                input2.textProperty().removeListener(input2Listener);
+            }
         });
 
     }
@@ -44,40 +63,41 @@ public class CurrencyController {
         input2.setText("");
     }
     private void handleInputChange(String newValue, TextField targetInput, ComboBox<String> sourceComboBox, ComboBox<String> targetComboBox) {
-        if (!newValue.equals(targetInput.getText())) {
+
             try {
                 if (sourceComboBox.getValue() == null || targetComboBox.getValue() == null) {
                     throw new MyException("Selecciona una divisa ");
                 }
-
-                boolean isValid = isNumeric(newValue);
-
-                if(!isValid && !newValue.isEmpty()){
-                    System.out.println(newValue);
-                    throw new MyException("El valor no es un número");
+                boolean isValid;
+                if(!newValue.isEmpty()){
+                    isValid = isNumeric(newValue);
+                    if(isValid){
+                        Platform.runLater(() -> {
+                            System.out.println(newValue);
+                            cm.setCurrencyKeys(sourceComboBox.getValue(), targetComboBox.getValue());
+                            BigDecimal number = new BigDecimal(newValue);
+                            BigDecimal result = cm.convert(number);
+                            targetInput.setText(result.toString());
+                        });
+                    }else{
+                        System.out.println("Exception con : "+ newValue);
+                        System.out.println(isValid);
+                        throw new MyException("El valor no es un numero");
+                    }
                 }
 
-                Platform.runLater(() -> {
-                    if (isValid) {
-                        cm.setCurrencyKeys(sourceComboBox.getValue(), targetComboBox.getValue());
-                        double number = Double.parseDouble(newValue);
-                        DecimalFormat df = new DecimalFormat("#.##");
-                        String str = df.format(cm.convert(number));
-                        targetInput.setText(str);
-                    }
-                });
 
             } catch (MyException e) {
                 Platform.runLater(() -> {
-                    //cleanTextFields();
+                    cleanTextFields();
                     System.out.println(e.getMessage());
                 });
             }
         }
-    }
+
     private boolean isNumeric(String str) {
         try {
-            Double.parseDouble(str);
+            new BigDecimal(str);
             return true;
         } catch (NumberFormatException e) {
             return false;
