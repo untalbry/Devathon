@@ -7,7 +7,11 @@ import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 
 
+import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.text.DecimalFormat;
+import java.text.DecimalFormatSymbols;
+import java.util.Locale;
 
 public class CurrencyController {
     private CurrencyModel cm = new CurrencyModel();
@@ -22,8 +26,9 @@ public class CurrencyController {
 
     @FXML
     private ComboBox<String> comboBox2;
-    private boolean isInput1Active = false;
     public void initialize(){
+
+
         comboBox1.getItems().addAll("MXN", "USD", "EUR");
         comboBox2.getItems().addAll("MXN", "USD", "EUR");
         input1.textProperty().addListener((observable, oldValue, newValue) -> {
@@ -44,28 +49,35 @@ public class CurrencyController {
         input2.setText("");
     }
     private void handleInputChange(String newValue, TextField targetInput, ComboBox<String> sourceComboBox, ComboBox<String> targetComboBox) {
-        if (!newValue.equals(targetInput.getText())) {
+
             try {
                 if (sourceComboBox.getValue() == null || targetComboBox.getValue() == null) {
                     throw new MyException("Selecciona una divisa ");
                 }
-
-                boolean isValid = isNumeric(newValue);
-
-                if(!isValid && !newValue.isEmpty()){
-                    System.out.println(newValue);
-                    throw new MyException("El valor no es un número");
+                boolean isValid;
+                if(!newValue.isEmpty()){
+                    isValid = isNumeric(newValue);
+                    if(isValid){
+                        Platform.runLater(() -> {
+                            System.out.println(newValue);
+                            cm.setCurrencyKeys(sourceComboBox.getValue(), targetComboBox.getValue());
+                            BigDecimal number = new BigDecimal(newValue);
+                            BigDecimal result = cm.convert(number);
+                            // Formatear el resultado a dos decimales
+                            DecimalFormatSymbols symbols = new DecimalFormatSymbols(Locale.getDefault());
+                            symbols.setDecimalSeparator('.');
+                            DecimalFormat df = new DecimalFormat("#.00", symbols);
+                            df.setRoundingMode(RoundingMode.HALF_UP);
+                            String str = df.format(result);
+                            targetInput.setText(str);
+                        });
+                    }else{
+                        System.out.println("Exception con : "+ newValue);
+                        System.out.println(isValid);
+                        throw new MyException("El valor no es un numero");
+                    }
                 }
 
-                Platform.runLater(() -> {
-                    if (isValid) {
-                        cm.setCurrencyKeys(sourceComboBox.getValue(), targetComboBox.getValue());
-                        double number = Double.parseDouble(newValue);
-                        DecimalFormat df = new DecimalFormat("#.##");
-                        String str = df.format(cm.convert(number));
-                        targetInput.setText(str);
-                    }
-                });
 
             } catch (MyException e) {
                 Platform.runLater(() -> {
@@ -74,10 +86,10 @@ public class CurrencyController {
                 });
             }
         }
-    }
+
     private boolean isNumeric(String str) {
         try {
-            Double.parseDouble(str);
+            new BigDecimal(str);
             return true;
         } catch (NumberFormatException e) {
             return false;
