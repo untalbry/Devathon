@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Button?>
+
+<VBox id="main" alignment="CENTER" maxHeight="160.0" maxWidth="380.0" minHeight="160.0" minWidth="380.0" prefHeight="160.0" prefWidth="380.0" spacing="20.0" stylesheets="@styles.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.binaryconverter.binaryconverter.BinaryConverterController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <children>
+      <HBox prefHeight="100.0" prefWidth="200.0" translateX="5.0" translateY="50.0">
+         <children>
+            <TextField fx:id="input1" prefHeight="25.0" prefWidth="100.0" promptText="Input " />
+            <Button id="CopyButton" onAction="#onCopyButtonClick1" maxWidth="50.0" minWidth="50.0" mnemonicParsing="false" prefWidth="50.0" stylesheets="@styles.css" text="Copy" translateX="10.0" />
+            <TextField fx:id="input2" prefHeight="25.0" prefWidth="100.0" promptText="Result" translateX="20.0" />
+            <Button id="CopyButton" onAction="#onCopyButtonClick2" mnemonicParsing="false" prefWidth="50.0" text="Copy" translateX="30.0" />
+         </children>
+      </HBox>
+   
+
+       <Button id="ConvertButton" maxWidth="68.0" minWidth="60.0" onAction="#onConvertButtonClick" prefHeight="25.0" prefWidth="68.0" stylesheets="@styles.css" text="Convert" />
+       <Label fx:id="warningText" stylesheets="@styles.css"/>
+   </children>
+</VBox>

@@ -1,0 +1,38 @@
+#main{
+    -fx-background-color: #fff;
+
+}
+#ConvertButton{
+    -fx-background-color: #ed3e49;
+    -fx-background-radius: 25;
+    -fx-text-fill:  #fff;
+    -fx-font-weight: bold;
+}
+#ConvertButton:hover{
+    -fx-cursor: hand;
+    -fx-background-color: #b22f37;
+
+}
+#CopyButton{
+    -fx-background-color: #fff;
+    -fx-border-color: #ed3e49;
+    -fx-background-radius: 25;
+    -fx-border-radius: 25;
+    -fx-text-fill:  #ed3e49;
+    -fx-font-weight: bold;
+}
+#CopyButton:hover{
+    -fx-cursor: hand;
+    -fx-text-fill:  #fff;
+    -fx-background-color:  #ed3e49;
+}
+.text-field{
+    -fx-background-color: #fff;
+    -fx-border-radius: 5px;
+    -fx-border-color: #ed3e49;
+    -fx-text-fill:#ed3e49 ;
+}
+.label{
+    -fx-text-fill:#ed3e49 ;
+    -fx-font-weight: bold;
+}
