@@ -9,7 +9,7 @@ import javafx.scene.input.ClipboardContent;
 
 public class BinaryConverterController {
     @FXML
-    private Label welcomeText;
+    private Label warningText;
     @FXML
     private TextField input1;
     @FXML
@@ -38,14 +38,14 @@ public class BinaryConverterController {
                     binary = Integer.parseInt(newValue);
                     input2.setText(Integer.toBinaryString(binary));
                 }catch (NumberFormatException e){
-                    System.out.println("Valor ingresado no es un decimal");
+                    warningText.setText("Valor ingresado no es un decimal");
                 }
             }else{
                 try{
                     int decimalNumber = Integer.parseInt(newValue, 2);
                     input1.setText(Integer.toString(decimalNumber));
                 }catch(NumberFormatException e){
-                    System.out.println("Valor ingresado no es un binario");
+                    warningText.setText("Valor ingresado no es un binario");
                 }
             }
         }
