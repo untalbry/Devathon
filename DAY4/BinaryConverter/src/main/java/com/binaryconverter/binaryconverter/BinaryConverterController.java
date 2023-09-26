@@ -4,6 +4,8 @@ import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
+import javafx.scene.input.Clipboard;
+import javafx.scene.input.ClipboardContent;
 
 public class BinaryConverterController {
     @FXML
@@ -45,12 +47,23 @@ public class BinaryConverterController {
                 }catch(NumberFormatException e){
                     System.out.println("Valor ingresado no es un binario");
                 }
-
             }
-
         }
+    }
+    @FXML
+    protected void onCopyButtonClick1(ActionEvent event) {
+        copyToClipboard(input1.getText());
+    }
 
-
+    @FXML
+    protected void onCopyButtonClick2(ActionEvent event) {
+        copyToClipboard(input2.getText());
+    }
+    private void copyToClipboard(String textToCopy) {
+        Clipboard clipboard = Clipboard.getSystemClipboard();
+        ClipboardContent content = new ClipboardContent();
+        content.putString(textToCopy);
+        clipboard.setContent(content);
     }
 
 }

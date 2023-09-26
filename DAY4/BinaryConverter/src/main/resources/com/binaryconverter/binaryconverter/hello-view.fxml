@@ -17,9 +17,9 @@
       <HBox prefHeight="100.0" prefWidth="200.0" translateX="5.0" translateY="50.0">
          <children>
             <TextField fx:id="input1" prefHeight="25.0" prefWidth="100.0" promptText="Input " />
-            <Button maxWidth="50.0" minWidth="50.0" mnemonicParsing="false" prefWidth="50.0" text="Copy" translateX="10.0" />
+            <Button onAction="#onCopyButtonClick1" maxWidth="50.0" minWidth="50.0" mnemonicParsing="false" prefWidth="50.0" text="Copy" translateX="10.0" />
             <TextField fx:id="input2" prefHeight="25.0" prefWidth="100.0" promptText="Result" translateX="20.0" />
-            <Button mnemonicParsing="false" prefWidth="50.0" text="Copy" translateX="30.0" />
+            <Button onAction="#onCopyButtonClick2" mnemonicParsing="false" prefWidth="50.0" text="Copy" translateX="30.0" />
          </children>
       </HBox>
    
