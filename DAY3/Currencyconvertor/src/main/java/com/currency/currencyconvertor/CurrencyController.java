@@ -75,7 +75,13 @@ public class CurrencyController {
         try {
             // Verificar si las monedas de origen y destino están seleccionadas
             if (sourceComboBox.getValue() == null || targetComboBox.getValue() == null) {
+                sourceComboBox.setStyle(sourceComboBox.getValue() == null ? "-fx-border-color: red;" : "-fx-border-color: #a6b0c3;");
+                targetComboBox.setStyle(targetComboBox.getValue() == null ? "-fx-border-color: red;" : "-fx-border-color: #a6b0c3;");
+
                 throw new MyException("Selecciona una divisa ");
+            }else{
+                sourceComboBox.setStyle("-fx-border-color: #a6b0c3;");
+                targetComboBox.setStyle("-fx-border-color: #a6b0c3;");
             }
             boolean isValid;
             if (!newValue.isEmpty()) {
