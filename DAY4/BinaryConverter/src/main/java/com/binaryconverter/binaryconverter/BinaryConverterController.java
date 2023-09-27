@@ -32,6 +32,7 @@ public class BinaryConverterController {
     @FXML
     protected void onConvertButtonClick(ActionEvent event) {
         if(lastFocusedTextField != null && !lastFocusedTextField.getText().isEmpty()){
+            warningText.setText("");
             String newValue = lastFocusedTextField.getText();
             if(lastFocusedTextField == input1){
                 try{
