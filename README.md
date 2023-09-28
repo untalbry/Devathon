@@ -142,7 +142,6 @@ done
 | 68 | Portafolio                      |        |
 
 </div>
-## To do proyects:
 
 ### Movile Aplications
 
