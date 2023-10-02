@@ -32,10 +32,13 @@
                             <p>Divides la cuenta?</p>
                             
                              <div class="form-option">
+       
+                                <input id="opcion1" type="radio" name="opciones" value="opcion1" >
                                 <label for="opcion1">Si</label>
-                                <input type="radio" id="opcion1" name="opciones" value="opcion1">
+
+                                <input id="opcion2" type="radio" name="opciones" value="opcion2" checked="">
                                 <label for="opcion2">No</label>
-                                <input type="radio" id="opcion2" name="opciones" value="opcion2">
+
                              </div>   
                             
                             <div class="form-num-people" id="numPeople"   style="display: none;">

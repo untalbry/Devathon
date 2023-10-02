@@ -19,7 +19,7 @@ body{
 }
 .card-container{
     width: 35rem;
-    height: 25rem;
+    height: 26rem;
     border: 2px solid #fafafa10;
     margin: 0 auto;
     border-radius: 1rem;
@@ -37,12 +37,10 @@ header{
 header .logo{
     display: flex;
     align-items: center;
-    padding-right:  20px;
 }
 header .logo img{
     width: 50px;
     height: 30px;
-    margin-right: 30px;
     margin-bottom: 0;
 }
 .formulario{
@@ -76,6 +74,7 @@ header .logo img{
 
 }
 .form-num-people{
+    margin-bottom: 1em;
 
 }
 .form_input{
@@ -99,9 +98,41 @@ input[type="number"]::-webkit-outer-spin-button {
     appearance: none;
     margin: 0; /* Puedes ajustar el margen según sea necesario */
 }
+button {
+ width: 100px;
+ height: 30px;
+ font-size: 15px;
+ cursor: pointer;
+ border: none;
+ outline: none;
+ background: transparent;
+ color: white;
+ font-weight: 700;
+ position: relative;
+ transition: all 0.5s;
+ z-index: 1;
+}
 
-.button{
-    margin-top: 1rem;
-    width: 4rem;
-    height: 2rem;
+button::before {
+ content: "";
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 5px;
+ height: 100%;
+ background-color: white;
+ z-index: -1;
+ transition: all 0.5s;
+}
+
+button:hover::before {
+ width: 100%;
+}
+
+button:hover {
+ color: black;
+}
+
+button:active:before {
+ background: #b9b9b9;
 }
