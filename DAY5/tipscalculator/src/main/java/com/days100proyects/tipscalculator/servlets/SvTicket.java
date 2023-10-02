@@ -11,8 +11,6 @@ import com.itextpdf.text.Document;
 import com.itextpdf.text.*;
 import com.itextpdf.text.Paragraph;
 import com.itextpdf.text.pdf.PdfWriter;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 
 @WebServlet(name = "SvTicket", urlPatterns = {"/SvTicket"})
 public class SvTicket extends HttpServlet {
@@ -37,20 +35,20 @@ public class SvTicket extends HttpServlet {
             int porcentage;
             int numberOfPeople ;
             double accountPerPerson=0;
-            
+           
             try{
                 total = Double.parseDouble(request.getParameter("total"));
                 porcentage = Integer.parseInt(request.getParameter("porcentage"));
                 numberOfPeople = Integer.parseInt(request.getParameter("numPeople"));
                 if(total>0){
-                    tipAmount = (porcentage > 0)? (total * porcentage) /100 : 0;
+                    tipAmount = (porcentage > 0)? (total * porcentage) /100.0 : 0;
                     accountPerPerson = (total + tipAmount)/numberOfPeople;
                 }
                 
             }catch(NumberFormatException e){
                 System.out.println("Los parametros deben de ser números");
             } 
-            
+
             Document document = new Document(new RectangleReadOnly(227, 300));
             try{
                 PdfWriter.getInstance(document , response.getOutputStream());
