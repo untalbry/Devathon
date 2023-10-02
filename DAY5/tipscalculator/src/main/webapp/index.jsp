@@ -21,7 +21,7 @@
                     <div class="formulario">
                         <form action="SvTicket" method="POST">
                             <div class="form-total">
-                                <input class="form_input" type="number" name="total" step="0.01" placeholder="Ingresa el total de cuenta">
+                                <input class="form_input" type="number" name="total" placeholder="Ingresa el total de cuenta" required>
                             </div>
                             <div class="form-porcent">
                                 <label>Porcentaje de propina: </label> <br>
@@ -42,7 +42,7 @@
                              </div>   
                             
                             <div class="form-num-people" id="numPeople"   style="display: none;">
-                                <input class="form_input" type="number" name="numPeople" step="0" placeholder="Número de personas">
+                                <input class="form_input" type="number" name="numPeople" step="0" placeholder="Número de personas" value="1">
                             </div>
                             
                             <button  class="button" type="submit">Enviar</button>
