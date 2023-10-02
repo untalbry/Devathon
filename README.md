@@ -5,7 +5,7 @@ En este desafío harémos un proyecto de software todos los días para mejorar n
 
 ### Usaremos estas tecnologías 👇
 <p align="center"> 
-  <img  src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,mysql,html,css,js,ts,python,arduino" /> 
+  <img  src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,mysql,python,html,css,js,ts,arduino" /> 
 
 </p>
 <p align="center">
