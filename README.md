@@ -1,4 +1,4 @@
-# 100 DÍAS 100 PROYECTOS 
+# 100 DÍAS 100 PROYECTOS 💻
 En este desafío harémos un proyecto de software todos los días para mejorar nuestras habilidades técnicas como desarrolladores <strong>BACKEND</strong> y <strong>FRONTEND</strong>, lograrémos estos objetivos practicando todos los días porque la práctica hace al maestro.<br><br>
 
 
