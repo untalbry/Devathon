@@ -1,5 +1,11 @@
 # 100 DÍAS 100 PROYECTOS 💻
-En este desafío harémos un proyecto de software todos los días para mejorar nuestras habilidades técnicas como desarrolladores <strong>BACKEND</strong> y <strong>FRONTEND</strong>, lograrémos estos objetivos practicando todos los días porque la práctica hace al maestro.<br><br>
+En este desafío harémos un proyecto de software todos los días para mejorar nuestras habilidades técnicas como desarrolladores <strong>BACKEND</strong> y <strong>FRONTEND</strong>, lograrémos estos objetivos practicando todos los días porque la práctica hace al maestro.
+ 
+<br>
+ <img src="https://img.shields.io/github/stars/xVrzBx/100Days100Proyects?style=for-the-badge&logo=Github&labelColor=%23131321&color=%23f69a05">
+<br>
+
+
 
 
 
