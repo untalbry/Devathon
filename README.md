@@ -2,7 +2,11 @@
 En este desafío harémos un proyecto de software todos los días para mejorar nuestras habilidades técnicas como desarrolladores <strong>BACKEND</strong> y <strong>FRONTEND</strong>, lograrémos estos objetivos practicando todos los días porque la práctica hace al maestro.
  
 <br>
- <img src="https://img.shields.io/github/stars/xVrzBx/100Days100Proyects?style=for-the-badge&logo=Github&labelColor=%23131321&color=%23f69a05">
+<div align="center">
+  <img src="https://img.shields.io/github/stars/xVrzBx/100Days100Proyects?style=for-the-badge&logo=Github&labelColor=%23131321&color=%23f69a05">
+ <img src="https://img.shields.io/github/watchers/xVrzBx/100Days100Proyects?style=for-the-badge&logo=Github&labelColor=%23131321&color=%231185ff">
+</div>
+
 <br>
 
 
