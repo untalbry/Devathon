@@ -30,13 +30,7 @@ button{
     border: none;
    
 }
-.basic-operator{
-    background-color: #f60505;
-}
 
-.basic-operator:active{
-    background-color: #a96a03;
-}
 .operator{
     background-color: #a0a0a0;
     color:#161616;
@@ -52,6 +46,13 @@ button{
 .number:active{
     background-color: #1e1e1e;
 
+}
+.basic{
+    background-color: #f6b605;
+}
+
+.basic:active{
+    background-color: #a96a03;
 }
 button:focus{
     outline: none;
@@ -72,4 +73,10 @@ button:focus{
     text-align: right;
     justify-content: space-between;
     word-break: break-all;
+}
+#valor-actual{
+    font-size: 1.5em;
+}
+#valor-anterior{
+    font-size: 2em;
 }

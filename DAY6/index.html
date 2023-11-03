@@ -1,14 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link tyupe="text/css" rel="stylesheet" href="styles.css">
+    <script src="Display.js" type="text/javascript"></script>
+    <script src="Calculadora.js" type="text/javascript"></script>
+    <script src="index.js" type="text/javascript" defer></script>
 </head>
 <body>
     <section class="container">
-        <form class="calculator">
+        <div class="calculator">
             <div class="display">
                 <div id="valor-anterior"></div>
                 <div id="valor-actual"></div>
@@ -26,25 +29,25 @@
                 <button class="number">7</button> 
                 <button class="number">8</button>
                 <button class="number">9</button>
-                <button class="basic-operator">AC</button>          
-                <button class="basic-operator">DEL</button>
+                <button class="operator basic">AC</button>          
+                <button class="operator basic">DEL</button>
                 <button class="number">4</button>
                 <button class="number">5</button>
                 <button class="number">6</button>
-                <button class="basic-operator">X</button>         
-                <button class="basic-operator">/</button>
+                <button class="operator basic">X</button>         
+                <button class="operator basic">/</button>
                 <button class="number">1</button>
                 <button class="number">2</button>
                 <button class="number">3</button>
-                <button class="basic-operator">-</button>
-                <button class="basic-operator">+</button>
+                <button class="operator basic">-</button>
+                <button class="operator basic">+</button>
                 <button class="number col-2">0</button>
-                <button class="operator">.</button>
+                <button class="number">.</button>
                 <button class="operator">Ans</button>
-                <button class="basic-operator">=</button>
+                <button class="operator basic">=</button>
             </div>
             
-        </form>
+        </div>
     </section>
     
 </body>
