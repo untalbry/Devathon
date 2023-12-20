@@ -53,11 +53,11 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
   <br>
   
  #### 1. Internet<br>
-    1.1 ¿Como funciona el internet?<br>
-    1.2 Protocolos HTTP <br>
-    1.3 Servidores <br>
-    1.4 Browser <br>
-    1.5 Host <br> <br>
+    1.1 ¿Como funciona el internet?
+    1.2 Protocolos HTTP 
+    1.3 Servidores 
+    1.4 Browser 
+    1.5 Host 
     
  #### 2. Git
     2.1 Gestor de versiones 
