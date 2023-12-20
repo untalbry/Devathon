@@ -92,7 +92,7 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
    - [x] Comprender el concepto de variables: Saber identificar que es una variable y su función en el almacenamiento de datos, saber con que tipo de datos trabaja Java por defecto y como aplicar técnicas de casting
    - [x] Manejar operaciones de Java: Conocer los diferentes operadores de Java y como aplicarlos a diferentes tipos de datos.   
   ##### Temario:
-   ```
+```
     5.1 Java como entorno de desarrollo
         5.1.1 ¿Qué es Java?
         5.1.2 Java como lenguaje interpretado y compilado
@@ -116,11 +116,14 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
             5.2.5.4 Relacionales
             5.2.5.5 Booleanos
             5.2.5.6 Booleanos con valores no booleanos
-  ```
+```
   #### Bloque 2 
   ##### Objetivos:
-   - [x] Objetivo 1
-  ```
+   - [x] Comprender que es la Programación Orientada a Objetos: Conocer los principios fundamentales de la Programación Orientada a Objetos: Clases, Objetos, Encapsulamiento, Polimorfismo. 
+   - [x] Diferenciar entre instancia y clase: Que es lo que ocurre cuando creas un objeto
+   - [x] Saber que es el encapsulamiento: Saber como aplicar encapsulamiento y comprender su importancia del mismo.
+   - [x] Saber como aplicar Polimorfismo: Comprender la herencia como mecanismo de POO, distinguir entre `this` y `super` y explirar la sobreescritura y sobrecarga de métodos como método de polimorfismo.   
+```
     5.3 Introducción a Programación orientada a objetoss
         5.3.1 Que es la programación orientada a objetos
         5.3.2 Clases y Objetos
