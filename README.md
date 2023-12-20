@@ -28,12 +28,99 @@ En este desafío harémos un proyecto de software todos los días para mejorar n
 
 ## Binary Brains Club? 
 
-<p align="center" width="300">
-   <img align="center" width="300" src="https://github.com/xVrzBx/100Days100Proyects/assets/91161604/4a45945d-5357-4e4f-80b7-0fb4ef25dfd0" />
+   <img align="left" width="300" src="https://github.com/xVrzBx/100Days100Proyects/assets/91161604/4a45945d-5357-4e4f-80b7-0fb4ef25dfd0" />
+
+<p align="left">
+  <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>es un club de desarrollo de software, donde nuestra misión en Binary Brains es proporcionar un espacio donde los entusiastas del desarrollo de software puedan prosperar y crecer profesionalmente. Buscamos:
+
+1. Fomentar un ambiente seguro y respetuoso en el que todos los miembros se sientan valorados y apoyados en su viaje de aprendizaje.
+2. Ofrecer recursos de alta calidad, capacitación y tutoría para mejorar las habilidades técnicas y fomentar la innovación.
+3. Facilitar la participación activa de nuestros miembros en eventos como hackatones, concursos y proyectos colaborativos, impulsando así su desarrollo y promoviendo el espíritu de equipo.
+4. Promover valores de integridad, ética y responsabilidad en la tecnología, creando profesionales de software conscientes de su impacto en la sociedad.
+5. Inspirar a nuestros miembros a alcanzar metas sobresalientes en su carrera, llevando sus habilidades al más alto nivel y contribuyendo al avance de la tecnología.
+
+En Binary Brains, estamos comprometidos con la excelencia en el desarrollo de software y en el crecimiento de nuestros miembros como expertos en su campo, siempre en busca de nuevos horizontes tecnológicos y la superación constante de desafíos, estamos dispuestos a ser muy ambiciosos y que seas ambicioso, nosotros creemos en ti, es hora de que tu también lo hagas. 
+
+Usaremos este repositorio para enseñar desarrollo de software en el club <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>, se seguirá esta ruta y para practicar realizarán los proyectos.
+<br> 
 </p>
 
-Usaré este repositorio también para enseñar desarrollo de software en mi club <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>, así que voy a enséñeles a codificar siguiendo esta ruta y para practicar realizarán los proyectos.
-<br> En el roadmap estoy agregando algunas recomendaciones como <strong><a href="https://www.notion.so/es-la/desktop">Notion</a></strong> y leer el <strong><a>Código limpio</a></strong> Reservar
+<br>
+
+## Temario 
+<details align="left">
+  <summary> <h3>Fundamentos</h3></summary>
+  <br>
+  
+ #### 1. Internet<br>
+    1.1 ¿Como funciona el internet?<br>
+    1.2 Protocolos HTTP <br>
+    1.3 Servidores <br>
+    1.4 Browser <br>
+    1.5 Host <br> <br>
+    
+ #### 2. Git
+    2.1 Gestor de versiones 
+    2.2 Comandos básicos
+    2.3 Git ignore
+    2.4 Trabajando con ramas
+    2.5 Pull Request    
+
+</details>
+
+<details>
+  <summary><h3>Empezando con web</h3></summary><br>
+  
+  #### 3. HTML Básico
+
+  #### 4. CSS3 Básico
+
+  #### 5. Java SE 11 
+    5.1 Java como entorno de desarrollo
+        5.1.1 ¿Qué es Java?
+        5.1.2 Java como lenguaje interpretado y compilado
+        5.1.3 Qué es la máquina virtual de Java
+        5.1.4 Ediciones de Java: Java SE y Java EE
+        5.1.5 versiones de JDK LTS y no LTS
+    5.2 Básicos de Java
+        5.2.1 Paquetes
+        5.2.2 Método Main
+        5.2.3 Comentarios y documentación con Javadoc
+        5.2.4 Variables
+            5.2.4.1 Tipos de datos
+            5.2.4.2 Constantes
+            5.2.4.3 Literales
+            5.2.4.4 Sistemas numéricos
+            5.2.4.5 Casting
+        5.2.5 Operadores
+            5.2.5.1 Aritméticos
+            5.2.5.2 Asignación
+            5.2.5.3 Incremento y decremento
+            5.2.5.4 Relacionales
+            5.2.5.5 Booleanos
+            5.2.5.6 Booleanos con valores no booleanos
+     5.3 Introducción a Programación orientada a objetoss
+        5.3.1 Que es la programación orientada a objetos
+        5.3.2 Clases y Objetos
+        5.3.3 Métodos y Atributos
+        5.3.4 Referencias a objetos (Instancias)
+        5.3.5 `this`y estándares de construcción de clases
+        5.3.6 Encapsulamiento
+            5.3.6.1 ¿Qué es encapsulamiento?
+            5.3.6.2 Como lograrlo
+            5.3.6.3 Modificadores de acceso
+            5.3.6.4 Métodos get
+            5.3.6.5 Métodos set
+        5.2.7 Polimorfismo
+              5.2.7.1 Herencia
+              5.2.7.2 Diferencias entre this y super
+              5.2.7.3 Sobre escritura de métodos
+              5.2.7.4 Sobre carga de métodos
+              5.2.7.5 Polimorfismo
+              5.2.7.6 Simplicidad de código gracias al polimorfismo
+      5.4 Interfaces gráficas básicas con JavaFX
+
+</details>
 <p align="center">
    <img src="https://github.com/xVrzBx/xVrzBx/assets/91161604/343bb6e7-5792-46e4-b778-46697817b4d5">
 </p>
@@ -117,7 +204,7 @@ done
 | 63 | E-learning                      |        |
 | 64 | Reproductor de Música           |        |
 | 65 | App para Elegir Películas       |        |
-| 66 | Sistema de Reservación de Viajes |        |
+| 66 | Sistema de Reservación de Viajes|        |
 | 67 | Coding Battle                   |        |
 | 68 | Portafolio                      |        |
 
