@@ -47,7 +47,7 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
   <summary> <h2>Fundamentos</h2></summary>
   <br>
   
- ### 1. Internet
+ ### 1. Internet 🌐
    ##### Objetivos de clase:
    - [x] Objetivo 1
    ##### Temario:
@@ -58,7 +58,7 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
     1.4 Browser 
     1.5 Host 
    ```
- ### 2. Git
+ ### 2. Git ⬆
   ##### Objetivos de clase:
    - [x] Objetivo 1
   ##### Temario:
@@ -77,15 +77,15 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 <details>
   <summary><h2>Empezando con web</h2></summary><br>
   
-  ### 3. HTML Básico
+  ### 3. HTML Básico 🏗️
 
-  ### 4. CSS3 Básico
+  ### 4. CSS3 Básico 🎨
 
-   ### Proyectos:
-  - Día 1: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY1">Hola mundo!</a>
-  - Día 2: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY2">Tarjeta de presentación</a>
+   ### Proyectos 💻 
+  - Día 1: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY1">Hola mundo!</a> 👋
+  - Día 2: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY2">Tarjeta de presentación</a> 💳
 
-  ### 5. Java SE 11 
+  ### 5. Java SE 11 ☕
   #### Bloque 1 
   ##### Objetivos de clase:
    - [x] Comprender el concepto de Java y su posición en el entorno de desarrollo; Maquina virtual, compilador y lenguaje
@@ -220,9 +220,9 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
                  5.10.3.4 TreeMap
                  5.10.3.5 EnumMap
   ```
-  ### Proyectos:
-  - Día 3: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY3/Currencyconvertor">Conversor de divisas</a>
-  - Día 4: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY4">Conversor de Binario a Decimal</a>
+  ### Proyectos 💻
+  - Día 3: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY3/Currencyconvertor">Conversor de divisas</a> 💵
+  - Día 4: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY4">Conversor de Binario a Decimal</a> 📟
 
 </details>
 <p align="center">
