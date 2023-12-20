@@ -84,7 +84,13 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
   ### 5. Java SE 11 
   #### Bloque 1 
   ##### Objetivos de clase:
-   - [x] Objetivo 1
+   - [x] Comprender el concepto de Java y su posición en el entorno de desarrollo; Maquina virtual, compilador y lenguaje
+   - [x] Versiones de Java: Identificar las ediciones de java, centrandoce en las diferencias entre Java SE y Java EE
+   - [x] Conocer las versiones de JDK: Diferencias entre las versiones LTS y no LTS y comprender su impacto en el desarrollo
+   - [x] Comprender los paquetes de Java: Familiarizarse con el concepto de paquetes en Java y su papel en la organización de código
+   - [x] Entender como ejecutar correctamente una aplicación de Java
+   - [x] Comprender el concepto de variables: Saber identificar que es una variable y su función en el almacenamiento de datos, saber con que tipo de datos trabaja Java por defecto y como aplicar técnicas de casting
+   - [x] Manejar operaciones de Java: Conocer los diferentes operadores de Java y como aplicarlos a diferentes tipos de datos.   
   ##### Temario:
    ```
     5.1 Java como entorno de desarrollo
