@@ -119,6 +119,25 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
             5.2.7.5 Polimorfismo
             5.2.7.6 Simplicidad de código gracias al polimorfismo
     5.4 Interfaces gráficas básicas con JavaFX
+    5.5 Uso de Final
+    5.6 Uso de Static
+    5.7 Wrapper Classes
+        5.7.1 Métodos de las Wrapper Classes
+    5.8 Exceptions
+        5.8.1 Stack Tree
+        5.8.2 ¿Qué es una exception?
+            5.8.2.1 Tipos de exception
+            5.8.2.2 RuntimeException
+            5.8.2.3 IOException
+        5.8.3 Como manejar exceptions
+            5.8.3.1 try y catch
+            5.8.3.2 finally
+        5.8.4 Como arrojar exceptions
+            5.8.4.1 throw
+            5.8.4.2 throws
+        5.8.5 Como crear una exception personalizada
+           5.8.5.1 Herencia de Throwable
+        5.8.6 ¿Qué es un Error?
 
 </details>
 <p align="center">
