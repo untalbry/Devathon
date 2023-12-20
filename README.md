@@ -217,8 +217,8 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
                  5.10.3.5 EnumMap
   ```
   ##### Proyectos:
-  - <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY3/Currencyconvertor">Conversor de divisas</a>
-  - <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY4">Conversor de Binario a Decimal</a>
+  - Día 3:<a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY3/Currencyconvertor">Conversor de divisas</a>
+  - Día 4:<a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY4">Conversor de Binario a Decimal</a>
 
 </details>
 <p align="center">
