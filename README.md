@@ -175,7 +175,7 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 #### Bloque 5
 ##### Objetivos:
    - [x] Comprender la Jerarquía de Colecciones: Familiarizarse con la jerarquía de interfaces y clases en la API Collection. Esto incluye entender la relación entre interfaces como `List` , `Set` y `Map`, y las clases que las implementan, como `ArrayList`, `HashSet` y `HashMap`.
-   - [x] Comprender el uso de `Generics` y `WildCards`: Comprender la importancia de la utilización de `Generics` y `WildCards`.
+   - [x] Uso de `Generics` y `WildCards`: Comprender la importancia de la utilización de `Generics` y `WildCards`.
    - [x] Dominar Operaciones Básicas: Aprender a realizar operaciones fundamentales en colecciones, como agregar, eliminar y buscar elementos. Se hará énfasis en la eficiencia y complejidad de estas operaciones en diferentes implementaciones.
    - [x] Manejar Iteradores: Adquirir habilidades para trabajar con iteradores, lo que facilitará la navegación a través de los elementos de una colección de manera segura y eficiente.
    - [x] Seleccionar la Implementación Adecuada: Entender las diferencias entre las implementaciones de la interfaz `Collection` y aprender a seleccionar la estructura de datos adecuada para escenarios específicos. Se pondrá especial énfasis en conocer cuándo utilizar `List`, `Set` o `Map`, dependiendo de las necesidades del problema.   
