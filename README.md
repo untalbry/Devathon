@@ -12,11 +12,6 @@ En este desafío harémos un proyecto de software todos los días para mejorar n
  
 <br>
 
-
-
-
-
-
 ### Usaremos estas tecnologías 👇
 <p align="center"> 
   <img  src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,mysql,html,css,js,ts" /> 
@@ -291,37 +286,17 @@ done
 | 74 | Sistema de Calificaciones           |        |
 | 75 | Habbit Tracker                      |        |
 
-### Arduino proyects
 
-|  #  | Challenge                            | Status |
-|----|---------------------------------|--------|
-| 76 | Dispensador de Agua                 |        |
-| 77 | Seguidor de Líneas                  |        |
-| 78 | Brazo Robótico                      |        |
-| 79 | QR Scanner                          |        |
-| 80 | Robot "Pásame la Mantequilla"       |        |
-| 81 | Controlador MIDI                    |        |
-| 82 | Cinta Transportadora                |        |
-| 83 | Detector de Entrada y Salida         |        |
-| 84 | Garra                               |        |
-| 85 | Caja Fuerte Inteligente             |        |
-| 86 | Hand Controller Drone               |        |
-| 87 | Cleaning Assistant Robot            |        |
-| 88 | Prótesis                            |        |
-| 89 | Casa Inteligente (Proyecto Integrador)|        |
 
 ### Extra
 
 |  #  | Challenge                                     | Status |
 |----|------------------------------------------|--------|
-| 90 | Snippet                                      |        |
-| 91 | Sistema de Automatización de Mensajes        |        |
-| 92 | Filtro para TikTok                           |        |
-| 93 | El Javier                                    |        |
-| 94 | Editor de Código                             |        |
+| 76 | Snippet                                      |        |
+| 77 | Sistema de Automatización de Mensajes        |        |
+| 78 | Filtro para TikTok                           |        |
 | 95 | Minecraft Mod                                |        |
 | 96 | Wiki "Recetas de Crafteo Minecraft"          |        |
 | 97 | Endless Runner                               |        |
 | 98 | Among Us para Programadores                 |        |
-| 99 | Generador de Playlist basado en tu Personalidad | |
 |100 | Extensión de Google Chrome                   |        |
