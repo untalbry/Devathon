@@ -44,13 +44,13 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 
 # Temario 
 <details align="left">
-  <summary> <h3>Fundamentos</h3></summary>
+  <summary> <h2>Fundamentos</h2></summary>
   <br>
   
- ### 1. Internet<br>
-   #### Objetivos de clase:
+ ### 1. Internet
+   ##### Objetivos de clase:
    - [x] Objetivo 1
-   #### Temario:
+   ##### Temario:
    ```
     1.1 ¿Como funciona el internet?
     1.2 Protocolos HTTP 
@@ -58,10 +58,10 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
     1.4 Browser 
     1.5 Host 
    ```
- #### 2. Git
-  #### Objetivos de clase:
+ ### 2. Git
+  ##### Objetivos de clase:
    - [x] Objetivo 1
-  #### Temario:
+  ##### Temario:
   ```
     2.1 Gestor de versiones 
     2.2 Comandos básicos
@@ -75,16 +75,17 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 </details>
 
 <details>
-  <summary><h3>Empezando con web</h3></summary><br>
+  <summary><h2>Empezando con web</h2></summary><br>
   
-  #### 3. HTML Básico
+  ### 3. HTML Básico
 
-  #### 4. CSS3 Básico
+  ### 4. CSS3 Básico
 
-  #### 5. Java SE 11 
-  #### Objetivos de clase:
+  ### 5. Java SE 11 
+  #### Bloque 1 
+  ##### Objetivos de clase:
    - [x] Objetivo 1
-  #### Temario:
+  ##### Temario:
    ```
     5.1 Java como entorno de desarrollo
         5.1.1 ¿Qué es Java?
@@ -109,6 +110,11 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
             5.2.5.4 Relacionales
             5.2.5.5 Booleanos
             5.2.5.6 Booleanos con valores no booleanos
+  ```
+  #### Bloque 2 
+  ##### Objetivos:
+   - [x] Objetivo 1
+  ```
     5.3 Introducción a Programación orientada a objetoss
         5.3.1 Que es la programación orientada a objetos
         5.3.2 Clases y Objetos
@@ -129,6 +135,11 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
             5.2.7.5 Polimorfismo
             5.2.7.6 Simplicidad de código gracias al polimorfismo
     5.4 Interfaces gráficas básicas con JavaFX
+```
+ #### Bloque 3
+ ##### Objetivos:
+   - [x] Objetivo 1
+```
     5.5 Uso de Final
     5.6 Uso de Static
     5.7 Wrapper Classes
@@ -148,13 +159,27 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
         5.8.5 Como crear una exception personalizada
            5.8.5.1 Herencia de Throwable
         5.8.6 ¿Qué es un Error?
+```
+#### Bloque 4
+##### Objetivos:
+   - [x] Objetivo 1
+```
    5.9 Más sobre polimorfismo 
         5.9.1 Clases abstractas
         5.9.2 Sobre escritura de métodos abstractos 
         5.9.3 Herencia múltiple 
         5.9.4 Interfaces 
         5.9.5 Interfaces vs Clases abstractas
-        5.9.6 Polimorfismo con interfaces y herencia 
+        5.9.6 Polimorfismo con interfaces y herencia
+```
+#### Bloque 5
+##### Objetivos:
+   - [x] Comprender la Jerarquía de Colecciones: Familiarizarse con la jerarquía de interfaces y clases en la API Collection. Esto incluye entender la relación entre interfaces como `List` , `Set` y `Map`, y las clases que las implementan, como `ArrayList`, `HashSet` y `HashMap`.
+   - [x] Comprender el uso de `Generics` y `WildCards`: Comprender la importancia de la utilización de `Generics` y `WildCards`.
+   - [x] Dominar Operaciones Básicas: Aprender a realizar operaciones fundamentales en colecciones, como agregar, eliminar y buscar elementos. Se hará énfasis en la eficiencia y complejidad de estas operaciones en diferentes implementaciones.
+   - [x] Manejar Iteradores: Adquirir habilidades para trabajar con iteradores, lo que facilitará la navegación a través de los elementos de una colección de manera segura y eficiente.
+   - [x] Seleccionar la Implementación Adecuada: Entender las diferencias entre las implementaciones de la interfaz `Collection` y aprender a seleccionar la estructura de datos adecuada para escenarios específicos. Se pondrá especial énfasis en conocer cuándo utilizar `List`, `Set` o `Map`, dependiendo de las necesidades del problema.   
+```
    5.10 Collections
         5.10.1 Introducción a Collections y Generics
            5.10.1.1 Generics
@@ -181,7 +206,6 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
                  5.10.3.3 LinkedHashMap
                  5.10.3.4 TreeMap
                  5.10.3.5 EnumMap
-    5.11 Programación Funcional 
   ```
 </details>
 <p align="center">
