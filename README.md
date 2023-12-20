@@ -47,24 +47,32 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 
 <br>
 
-## Temario 
+# Temario 
 <details align="left">
   <summary> <h3>Fundamentos</h3></summary>
   <br>
   
- #### 1. Internet<br>
+ ### 1. Internet<br>
+   #### Objetivos de clase 
+   - [x] Objetivo 1
+   - [ ] 
+   #### Temario 
+   ```
     1.1 ¿Como funciona el internet?
     1.2 Protocolos HTTP 
     1.3 Servidores 
     1.4 Browser 
     1.5 Host 
-    
+   ``` 
  #### 2. Git
     2.1 Gestor de versiones 
     2.2 Comandos básicos
     2.3 Git ignore
     2.4 Trabajando con ramas
-    2.5 Pull Request    
+    2.5 Pull Request  
+
+    
+
 
 </details>
 
