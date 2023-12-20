@@ -138,6 +138,41 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
         5.8.5 Como crear una exception personalizada
            5.8.5.1 Herencia de Throwable
         5.8.6 ¿Qué es un Error?
+    5.9 Más sobre polimorfismo 
+        5.9.1 Clases abstractas
+        5.9.2 Sobre escritura de métodos abstractos 
+        5.9.3 Herencia múltiple 
+        5.9.4 Interfaces 
+        5.9.5 Interfaces vs Clases abstractas
+        5.9.6 Polimorfismo con interfaces y herencia 
+    5.10 Collections
+        5.10.1 Introducción a Collections y Generics
+           5.10.1.1 Generics
+               5.10.1.1.1 Clases parametrizadas
+               5.10.1.1.2 Métodos parametrizados
+               5.10.1.1.3 Convenciones
+           5.10.1.2 Wildcards 
+        5.10.2 API Collection
+            5.10.2.1 Métodos
+            5.10.2.2 List
+                5.10.2.2.1 ArrayList
+                5.10.2.2.2 Vector
+                    5.10.2.2.2.1 Stack
+           5.10.2.3 Queue
+               5.10.2.3.1 LinkedList
+           5.10.2.4 Set
+               5.10.2.4.1 HashSet
+               5.10.2.4.2 TreeSet
+               5.10.2.4.3 LinkedHashMap
+               5.10.2.4.4 EnumSet
+         5.10.3 Lugares donde utiliza Collection
+             5.10.3.1 Map
+                 5.10.3.2 HashMap
+                 5.10.3.3 LinkedHashMap
+                 5.10.3.4 TreeMap
+                 5.10.3.5 EnumMap
+    6.Programación Funcional 
+
 
 </details>
 <p align="center">
