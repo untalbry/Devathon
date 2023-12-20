@@ -53,24 +53,27 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
   <br>
   
  ### 1. Internet<br>
-   #### Objetivos de clase 
+   #### Objetivos de clase:
    - [x] Objetivo 1
-   - [ ] 
-   #### Temario 
+   #### Temario:
    ```
     1.1 ¿Como funciona el internet?
     1.2 Protocolos HTTP 
     1.3 Servidores 
     1.4 Browser 
     1.5 Host 
-   ``` 
+   ```
  #### 2. Git
+  #### Objetivos de clase:
+   - [x] Objetivo 1
+  #### Temario:
+  ```
     2.1 Gestor de versiones 
     2.2 Comandos básicos
     2.3 Git ignore
     2.4 Trabajando con ramas
     2.5 Pull Request  
-
+  ```
     
 
 
@@ -84,6 +87,10 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
   #### 4. CSS3 Básico
 
   #### 5. Java SE 11 
+  #### Objetivos de clase:
+   - [x] Objetivo 1
+  #### Temario:
+   ```
     5.1 Java como entorno de desarrollo
         5.1.1 ¿Qué es Java?
         5.1.2 Java como lenguaje interpretado y compilado
@@ -146,14 +153,14 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
         5.8.5 Como crear una exception personalizada
            5.8.5.1 Herencia de Throwable
         5.8.6 ¿Qué es un Error?
-    5.9 Más sobre polimorfismo 
+   5.9 Más sobre polimorfismo 
         5.9.1 Clases abstractas
         5.9.2 Sobre escritura de métodos abstractos 
         5.9.3 Herencia múltiple 
         5.9.4 Interfaces 
         5.9.5 Interfaces vs Clases abstractas
         5.9.6 Polimorfismo con interfaces y herencia 
-    5.10 Collections
+   5.10 Collections
         5.10.1 Introducción a Collections y Generics
            5.10.1.1 Generics
                5.10.1.1.1 Clases parametrizadas
@@ -179,9 +186,8 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
                  5.10.3.3 LinkedHashMap
                  5.10.3.4 TreeMap
                  5.10.3.5 EnumMap
-    6.Programación Funcional 
-
-
+    5.11 Programación Funcional 
+  ```
 </details>
 <p align="center">
    <img src="https://github.com/xVrzBx/xVrzBx/assets/91161604/343bb6e7-5792-46e4-b778-46697817b4d5">
