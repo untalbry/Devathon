@@ -99,7 +99,7 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
             5.2.5.4 Relacionales
             5.2.5.5 Booleanos
             5.2.5.6 Booleanos con valores no booleanos
-     5.3 Introducción a Programación orientada a objetoss
+    5.3 Introducción a Programación orientada a objetoss
         5.3.1 Que es la programación orientada a objetos
         5.3.2 Clases y Objetos
         5.3.3 Métodos y Atributos
@@ -112,13 +112,13 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
             5.3.6.4 Métodos get
             5.3.6.5 Métodos set
         5.2.7 Polimorfismo
-              5.2.7.1 Herencia
-              5.2.7.2 Diferencias entre this y super
-              5.2.7.3 Sobre escritura de métodos
-              5.2.7.4 Sobre carga de métodos
-              5.2.7.5 Polimorfismo
-              5.2.7.6 Simplicidad de código gracias al polimorfismo
-      5.4 Interfaces gráficas básicas con JavaFX
+            5.2.7.1 Herencia
+            5.2.7.2 Diferencias entre this y super
+            5.2.7.3 Sobre escritura de métodos
+            5.2.7.4 Sobre carga de métodos
+            5.2.7.5 Polimorfismo
+            5.2.7.6 Simplicidad de código gracias al polimorfismo
+    5.4 Interfaces gráficas básicas con JavaFX
 
 </details>
 <p align="center">
