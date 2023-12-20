@@ -3,6 +3,7 @@
 <div align="right">
   <img src="https://img.shields.io/github/stars/xVrzBx/100Days100Proyects?style=for-the-badge&logo=Github&labelColor=%23131321&color=%23f69a05">
  <img src="https://img.shields.io/github/watchers/xVrzBx/100Days100Proyects?style=for-the-badge&logo=Github&labelColor=%23131321&color=%231185ff">
+<img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg">
 </div>
 <br>
 
@@ -39,8 +40,8 @@ En Binary Brains, estamos comprometidos con la excelencia en el desarrollo de so
 Usaremos este repositorio para enseñar desarrollo de software en el club <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>, se seguirá esta ruta y para practicar realizarán los proyectos.
 <br> 
 </p>
+<br> 
 
-<br>
 
 # Temario 
 <details align="left">
@@ -341,3 +342,6 @@ done
 | 97 | Endless Runner                               |        |
 | 98 | Among Us para Programadores                 |        |
 |100 | Extensión de Google Chrome                   |        |
+
+
+<p align="right"><a href="#top">Back to top 🔼</a></p>
