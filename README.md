@@ -229,7 +229,21 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
     
 <p align="right"><a href="#top">Back to top 🔼</a></p>
 </details>
+<details align="left">
+  <summary> <h2>Sentando Bases</h2></summary>
+  
+### 6 Javascript 
+#### Bloque 1
+##### Objetivos:
+ - [x] Objetivos aquí
 
+ ```
+  6. Javascript
+      6.1 ...
+ ```
+
+
+  </details>
 <p align="center">
    <img src="https://github.com/xVrzBx/xVrzBx/assets/91161604/343bb6e7-5792-46e4-b778-46697817b4d5">
 </p>
