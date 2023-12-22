@@ -232,7 +232,16 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 <details align="left">
   <summary> <h2>Sentando Bases</h2></summary>
   
-### 6 Javascript 
+### 7 Introducción a Java EE 
+#### Bloque 1
+##### Objetivos:
+ - [x] Objetivos aquí
+
+ ```
+  6. Servlets
+      6.1 ...
+ ```
+### 7 Javascript 
 #### Bloque 1
 ##### Objetivos:
  - [x] Objetivos aquí
