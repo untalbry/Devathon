@@ -241,7 +241,7 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
   6. Servlets
       6.1 ...
  ```
-### 7 Javascript 
+### 8 Javascript 
 #### Bloque 1
 ##### Objetivos:
  - [x] Objetivos aquí
