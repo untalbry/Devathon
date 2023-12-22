@@ -70,6 +70,8 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
     2.4 Trabajando con ramas
     2.5 Pull Request  
   ```
+
+  - 🔓 Día 0 : <a href="https://github.com/xVrzBx">Crea tu Github Readme</a> 👋
   <p align="right"><a href="#top">Back to top 🔼</a></p>  
 
 
@@ -83,8 +85,8 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
   ### 4. CSS3 Básico 🎨
 
    ### Proyectos 💻 
-  - Día 1: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY1">Hola mundo!</a> 👋
-  - Día 2: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY2">Tarjeta de presentación</a> 💳
+  - 🔓 Día 1: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY1">Hola mundo!</a> 👋
+  - 🔓 Día 2: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY2">Tarjeta de presentación</a> 💳
 
   ### 5. Java SE 11 ☕
   #### Bloque 1 
@@ -222,8 +224,8 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
                  5.10.3.5 EnumMap
   ```
   ### Proyectos 💻
-  - Día 3: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY3/Currencyconvertor">Conversor de divisas</a> 💵
-  - Día 4: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY4">Conversor de Binario a Decimal</a> 📟
+  - 🔓 Día 3: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY3/Currencyconvertor">Conversor de divisas</a> 💵
+  - 🔓Día 4: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY4">Conversor de Binario a Decimal</a> 📟
     
 <p align="right"><a href="#top">Back to top 🔼</a></p>
 </details>
