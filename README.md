@@ -20,7 +20,7 @@
 <br>
 
 ### Usaremos estas tecnologías 👇
-<p align="center"> 
+<p > 
   <img  src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,mysql,html,css,js,ts" /> 
 </p>
 
