@@ -26,3 +26,20 @@ independientemente de su nivel de habilidad o experiencia. Se espera que todos l
 - Apoyo y orientación: Brinda ayuda y orientación a otros miembros cuando sea posible. Estamos aquí para aprender y crecer juntos.
 
 Al seguir estos estándares, contribuirás a hacer de Binary Brains un lugar donde todos los estudiantes puedan prosperar y desarrollarse profesionalmente. Apreciamos tu compromiso con la excelencia y el respeto dentro de nuestra comunidad.
+###  *Lo que no se permite*
+- Discriminación: No se tolerará la discriminación por motivos de género, raza, religión, orientación sexual, discapacidad u otros factores. La comunidad busca ser inclusiva y respetuosa con la diversidad.
+- Acoso: Cualquier forma de acoso, ya sea verbal, visual o electrónico, no será tolerada. Esto incluye comentarios ofensivos, intimidación, o cualquier comportamiento que cause malestar o incomodidad a otros miembros.
+- Comportamiento ofensivo: Evita el uso de lenguaje ofensivo, insultante o irrespetuoso. Respeta las opiniones y perspectivas de los demás, incluso si difieren de las tuyas.
+- Violación de la privacidad: Respeta la privacidad de los demás miembros. No compartas información personal sin consentimiento y evita cualquier forma de invasión de la privacidad.
+- Incumplimiento de estándares de seguridad: Cualquier intento de comprometer la seguridad de la comunidad, ya sea a través de actividades maliciosas o negligencia en prácticas seguras, no será tolerado.
+- Incumplimiento del código ético: Todos los miembros deben adherirse a principios éticos y responsables en el desarrollo de software. Cualquier comportamiento que viole estos principios no será permitido.
+- Están prohibidas otras conductas que razonablemente podrían considerarse inapropiadas en un entorno profesional. La comunidad de Binary Brains es un espacio profesional y debe tratarse como tal.
+
+> [!CAUTION]
+>El incumplimiento de estas normas puede resultar en medidas disciplinarias, que van desde advertencias hasta la <strong>expulsión de la comunidad</strong>, con el objetivo de mantener un entorno seguro y propicio para el aprendizaje y desarrollo profesional de todos los alumnos de Binary Brains.
+
+## Aplicación 
+###  *Acciones que pueden realizar los participantes de la comunidad de Binary Brains*
+- <strong>Si detecta cualqueir problema denuncielo</strong>. Los moderadores gozan de una autoridad especial y son los responsables de esta comunidad.
+Pero tu también. Con tu ayuda los moderadores pueden actuar como coordinadores de la comunidad.  <br> <br> Cuando veas un mal comportambiento, no respondas. Fomenta el mal comportamiento al reconocerlo, consume tu energía y desperdicia el tiempo de todos. Puedes
+denunciar al alumno problemático o contenido disruptivo a la comunidad Binary Brains. 
