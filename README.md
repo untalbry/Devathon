@@ -457,5 +457,5 @@ done
 ### Socialmedia 
 <p align="center"> 
  <a href="https://www.instagram.com/bbupiicsa/"><img  src="https://skillicons.dev/icons?i=instagram" /> </a> 
-
+  <a href="https://discord.gg/cyXd37NTbq"><img  src="https://skillicons.dev/icons?i=discord" /> </a> 
 </p>
