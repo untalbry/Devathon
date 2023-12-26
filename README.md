@@ -148,6 +148,10 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
         4.5.2 Absolute vs Relative
         4.5.3 Centrando un div
  ```
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+  
    ### Proyectos 💻 
   - 🔓 Día 1: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY1">Hola mundo!</a> 👋
   - 🔓 Día 2: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY2">Tarjeta de presentación</a> 💳
