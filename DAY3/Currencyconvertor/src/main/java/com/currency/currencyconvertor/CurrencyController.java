@@ -4,7 +4,6 @@ import javafx.application.Platform;
 import javafx.beans.value.ChangeListener;
 import javafx.fxml.FXML;
 import javafx.scene.control.ComboBox;
-import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import java.math.BigDecimal;
 
@@ -69,6 +68,7 @@ public class CurrencyController {
         input1.setText("");
         input2.setText("");
     }
+
 
     // Método para manejar los cambios en los campos de entrada
     private void handleInputChange(String newValue, TextField targetInput, ComboBox<String> sourceComboBox, ComboBox<String> targetComboBox) {

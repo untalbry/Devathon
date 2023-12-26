@@ -43,7 +43,11 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 <br> 
 
 
-# Temario 
+# Tablas de contenidos
+
+> [!IMPORTANT]
+> Te recomiendo que revises los <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/RESOURCES">recursos adicionales</a> para complementar los temas vistos de cada bloque  <br>
+> 
 <details align="left">
   <summary> <h2>Fundamentos</h2></summary>
   <br>
@@ -82,12 +86,7 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 </details>
 
 
-  > [!IMPORTANT]
-> Te recomeinto estos recursos para este nivel: <br> 
->  1. <a href="https://allthetags.com/">All the tags</a><br>
->  2. <a href="https://flukeout.github.io/">CSS Diner</a><br> 
->  3. <a href="https://flexboxfroggy.com/#es">Flexbox Froggy</a><br>
->  4. <a href="https://refactoring.guru/es/design-patterns/java">Patrones de diseño en Java</a><br>
+
 
 
 
