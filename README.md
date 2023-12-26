@@ -1,15 +1,21 @@
-# 100 DÍAS 100 PROYECTOS 💻
+
 
 <div align="right">
   <img src="https://img.shields.io/github/stars/xVrzBx/100Days100Proyects?style=for-the-badge&logo=Github&labelColor=%23131321&color=%23f69a05">
  <img src="https://img.shields.io/github/watchers/xVrzBx/100Days100Proyects?style=for-the-badge&logo=Github&labelColor=%23131321&color=%231185ff">
-<img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg">
+<img src="https://img.shields.io/badge/Contributions-Welcome-green?style=for-the-badge&logo=Github&labelColor=%23131321&color=%233db80f">
 </div>
+
+<h1 align="center">💻100 DÍAS 100 PROYECTOS </h1> 
+
+
+<br>
+<p align="center" >En este desafío harémos un proyecto de software todos los días para mejorar nuestras habilidades técnicas como desarrolladores <strong>BACKEND</strong> y <strong>FRONTEND</strong>, lograrémos estos objetivos practicando todos los días porque la práctica hace al maestro.</p>
+
 <br>
 
 <hr>
-<br>
-En este desafío harémos un proyecto de software todos los días para mejorar nuestras habilidades técnicas como desarrolladores <strong>BACKEND</strong> y <strong>FRONTEND</strong>, lograrémos estos objetivos practicando todos los días porque la práctica hace al maestro.
+
  
 <br>
 
