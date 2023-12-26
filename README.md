@@ -49,7 +49,7 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
   <br>
   
  ### 1. Internet 🌐
-   ##### Objetivos de clase:
+   ##### Objetivos:
    - [x] Identificar los elementos clave que constituyen la infraestructura de Internet.
    - [x] Explorar cómo los datos se transmiten a través de la red global.
    - [x] Familiarizarse con el protocolo HTTP y su importancia en la comunicación web.
@@ -64,7 +64,7 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
     1.5 Host 
    ```
  ### 2. Git ⬆
-  ##### Objetivos de clase:
+  ##### Objetivos:
    - [x] Objetivo 1
   ##### Temario:
   ```
@@ -85,7 +85,7 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
   <summary><h2>Empezando con web</h2></summary><br>
   
   ### 3. HTML Básico 🏗️
-  ##### Objetivos de clase:
+  ##### Objetivos:
    - [x] Identificar y aplicar la sintaxis básica de HTML, incluyendo etiquetas de apertura y cierre.
    - [x] Diferenciar entre elementos, atributos y valores en el contexto de HTML.
    - [x] Comprender el propósito y la aplicación de estas etiquetas en la estructura de una página web.
@@ -115,7 +115,7 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
         3.4.3 Implementando el SEO en el HTML
  ```
   ### 4. CSS3 Básico 🎨
-  ##### Objetivos de clase:
+  ##### Objetivos:
    - [x] Identificar y aplicar la sintaxis básica de CSS, incluyendo reglas, propiedades y valores.
    - [x] Comprender cómo enlazar hojas de estilo externas e internas.
    - [x] Aplicar el selector universal y selectores básicos como elemento, clase e ID.
