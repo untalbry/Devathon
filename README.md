@@ -49,7 +49,7 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 > Te recomiendo que revises los <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/RESOURCES">recursos adicionales</a> para complementar los temas vistos de cada bloque  <br>
 > 
 <details align="left">
-  <summary> <h2>Fundamentos</h2></summary>
+  <summary> <h2 id="#Fundamentos" >Fundamentos</h2></summary>
   <br>
   
  ### 1. Internet 🌐
