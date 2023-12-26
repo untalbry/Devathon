@@ -332,9 +332,7 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 
   <p align="right"><a href="#top">Back to top 🔼</a></p> 
   </details>
-<p align="center">
-   <img src="https://github.com/xVrzBx/xVrzBx/assets/91161604/343bb6e7-5792-46e4-b778-46697817b4d5">
-</p>
+
 
 ## Vamos allá! 💻
 OK pero no voy a hacer 100 carpetas para guardar los proyectos a mano, para eso mejor hice este pequeño bash scritp: 
