@@ -29,18 +29,14 @@
    <img align="left" width="300" src="https://github.com/xVrzBx/100Days100Proyects/assets/91161604/4a45945d-5357-4e4f-80b7-0fb4ef25dfd0" />
 
 <p align="left">
-  <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>es un club de desarrollo de software, donde nuestra misión en Binary Brains es proporcionar un espacio donde los entusiastas del desarrollo de software puedan prosperar y crecer profesionalmente. Buscamos:
-
-1. Fomentar un ambiente seguro y respetuoso en el que todos los miembros se sientan valorados y apoyados en su viaje de aprendizaje.
-2. Ofrecer recursos de alta calidad, capacitación y tutoría para mejorar las habilidades técnicas y fomentar la innovación.
-3. Facilitar la participación activa de nuestros miembros en eventos como hackatones, concursos y proyectos colaborativos, impulsando así su desarrollo y promoviendo el espíritu de equipo.
-4. Promover valores de integridad, ética y responsabilidad en la tecnología, creando profesionales de software conscientes de su impacto en la sociedad.
-5. Inspirar a nuestros miembros a alcanzar metas sobresalientes en su carrera, llevando sus habilidades al más alto nivel y contribuyendo al avance de la tecnología.
-
-En Binary Brains, estamos comprometidos con la excelencia en el desarrollo de software y en el crecimiento de nuestros miembros como expertos en su campo, siempre en busca de nuevos horizontes tecnológicos y la superación constante de desafíos, estamos dispuestos a ser muy ambiciosos y que seas ambicioso, nosotros creemos en ti, es hora de que tu también lo hagas. 
-
+  <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>es un club de desarrollo de software que se dedica a proporcionar un entorno propicio para el crecimiento profesional de los entusiastas del desarrollo de software. Su misión abarca la creación de un ambiente seguro y respetuoso que valore a todos los miembros en su viaje de aprendizaje, ofreciendo recursos de alta calidad, capacitación y tutoría para mejorar habilidades técnicas, fomentar la innovación y promover la participación activa en eventos colaborativos.
+  </p>
+<br>
+<p align="left">
+Además, el club busca inculcar valores de integridad, ética y responsabilidad en la tecnología, inspirando a sus miembros a alcanzar metas sobresalientes en sus carreras y contribuir al avance de la tecnología, destacando el compromiso con la excelencia y el constante deseo de superar desafíos en busca de nuevos horizontes tecnológicos.
+</p><br> <br>
+<p>
 Usaremos este repositorio para enseñar desarrollo de software en el club <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>, se seguirá esta ruta y para practicar realizarán los proyectos.
-<br> 
 </p>
 <br> 
 
