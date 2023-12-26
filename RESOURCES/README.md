@@ -3,8 +3,8 @@
 ### Recusos para <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main?tab=readme-ov-file#fundamentos">`Fundamentos`</a>
 
 
-### Recursos para `Empezando con web`
+### Recursos para <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main?tab=readme-ov-file#empezando-con-web">`Empezando con web`</a>
 
-### Recursos para `Sentando Bases`
+### Recursos para <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main?tab=readme-ov-file#sentando-bases">`Sentando Bases`</a>
 
 
