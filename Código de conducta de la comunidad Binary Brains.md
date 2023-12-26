@@ -35,6 +35,7 @@ Al seguir estos estándares, contribuirás a hacer de Binary Brains un lugar don
 - Incumplimiento de estándares de seguridad: Cualquier intento de comprometer la seguridad de la comunidad, ya sea a través de actividades maliciosas o negligencia en prácticas seguras, no será tolerado.
 - Incumplimiento del código ético: Todos los miembros deben adherirse a principios éticos y responsables en el desarrollo de software. Cualquier comportamiento que viole estos principios no será permitido.
 - Están prohibidas otras conductas que razonablemente podrían considerarse inapropiadas en un entorno profesional. La comunidad de Binary Brains es un espacio profesional y debe tratarse como tal.
+- Incumplimiento de actividades: Tus compañeros a pesar de tener activiades adicionales a esta comunidad, se comprometen a cumplir en tiempo y forma las actividades asignadas. Es por eso que el incumplimiento de las mismas será tomado como una falta de interés al pertenecer a la comunidad. Dado a que nosotros brindamos una gran parte de nuestro tiempo en brindar herramientas y conocimiento de forma desinterezada. 
 
 > [!CAUTION]
 >El incumplimiento de estas normas puede resultar en medidas disciplinarias, que van desde advertencias hasta la <strong>expulsión de la comunidad</strong>, con el objetivo de mantener un entorno seguro y propicio para el aprendizaje y desarrollo profesional de todos los alumnos de Binary Brains.
