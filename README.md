@@ -50,7 +50,11 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
   
  ### 1. Internet 🌐
    ##### Objetivos de clase:
-   - [x] Objetivo 1
+   - [x] Identificar los elementos clave que constituyen la infraestructura de Internet.
+   - [x] Explorar cómo los datos se transmiten a través de la red global.
+   - [x] Familiarizarse con el protocolo HTTP y su importancia en la comunicación web.
+   - [x] Explorar la diversidad de servidores web y sus características distintivas.
+  
    ##### Temario:
    ```
     1.1 ¿Como funciona el internet?
@@ -81,9 +85,69 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
   <summary><h2>Empezando con web</h2></summary><br>
   
   ### 3. HTML Básico 🏗️
-
+  ##### Objetivos de clase:
+   - [x] Identificar y aplicar la sintaxis básica de HTML, incluyendo etiquetas de apertura y cierre.
+   - [x] Diferenciar entre elementos, atributos y valores en el contexto de HTML.
+   - [x] Comprender el propósito y la aplicación de estas etiquetas en la estructura de una página web.
+   - [x] Definir qué es el doctype y su papel en la declaración del tipo de documento.
+   - [x] Conocer los principios fundamentales de la accesibilidad web.
+   - [x] Comprender los conceptos básicos de SEO y su relevancia para la visibilidad en los motores de búsqueda.
+   - [x] Organizar el contenido de la página de manera clara y efectiva para facilitar la navegación.
+  ##### Temario:
+  ```
+    3.1 Básicos de HTML
+        3.1.1 ¿Qué es HTML?
+        3.1.2 Etiquetas básicas
+        3.1.3 Elementos, atributos y valores
+        3.1.4 ¿Qué es el DOCTYPE?
+    3.2 Accesibilidad
+        3.2.1 Importancia de la accesibilidad web
+        3.2.2 Atributos de accesibilidad
+        3.2.3 Voice browser para la accesibilidad
+    3.3 Encontrabilidad
+        3.3.1 ¿Qué es UX/UI?
+        3.3.2 Principios del UX/UI
+        3.3.3 ¿Qué es la encontrabilidad?
+        3.3.4 Ejemplo práctico de encontrabilidad
+    3.4 SEO
+        3.4.1 ¿Qué es el SEO?
+        3.4.2 ¿Cómo funciona el SEO?
+        3.4.3 Implementando el SEO en el HTML
+ ```
   ### 4. CSS3 Básico 🎨
-
+  ##### Objetivos de clase:
+   - [x] Identificar y aplicar la sintaxis básica de CSS, incluyendo reglas, propiedades y valores.
+   - [x] Comprender cómo enlazar hojas de estilo externas e internas.
+   - [x] Aplicar el selector universal y selectores básicos como elemento, clase e ID.
+   - [x] Comprender cómo afectan estos selectores a los elementos en una página.
+   - [x] Comprender el concepto del box model y sus componentes: margen, borde, relleno y contenido.
+   - [x] Comprender los conceptos básicos de Flexbox y Grid.
+   - [x] Utilizar Flexbox para crear diseños flexibles y alinear elementos en un contenedor.
+   - [x] Entender las propiedades de position, como static, relative, absolute y fixed.
+  ##### Temario:
+  ```
+    4.1 Básicos de CSS
+        4.1.1 ¿Qué es CSS?
+        4.1.2 Agregando una hoja de estilos a tu web
+        4.1.3 Sintaxis básica
+    4.2 Selectores
+        4.2.1 Para que sirven los selectores
+        4.2.2 El selector universal
+        4.2.3 Tipos de selectores
+    4.3 Box model
+        4.3.1 ¿Qué es el box model?
+        4.3.2 Elementos del box model
+        4.3.3 Posicionando elementos
+    4.4 Flex y Grid
+        4.4.1 ¿Qué es flex?
+        4.4.2 ¿Qué es Grid?
+        4.4.3 ¿Cuándo utilizar flex y cuando grid?
+        4.4.4 Centrando un div
+    4.5 Position
+        4.5.1 Propiedades 
+        4.5.2 Absolute vs Relative
+        4.5.3 Centrando un div
+ ```
    ### Proyectos 💻 
   - 🔓 Día 1: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY1">Hola mundo!</a> 👋
   - 🔓 Día 2: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY2">Tarjeta de presentación</a> 💳
