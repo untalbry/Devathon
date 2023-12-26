@@ -16,10 +16,6 @@ En este desafío harémos un proyecto de software todos los días para mejorar n
 ### Usaremos estas tecnologías 👇
 <p align="center"> 
   <img  src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,mysql,html,css,js,ts" /> 
-
-</p>
-<p align="center">
-    <img src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif" >
 </p>
 
 ## Binary Brains Club? 
