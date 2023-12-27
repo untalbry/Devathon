@@ -67,14 +67,36 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
    ```
  ### 2. Git ⬆
   ##### Objetivos:
-   - [x] Objetivo 1
+   - [x] Comprender la importancia de un gestor de versiones: Reconocer las ventajas de utilizar un sistema de control de versiones como Git.
+   - [x] Instalación de GIT: El alumno deberá de saber instalar git y configurarlo correctamente para su funcionamiento.
+   - [x] Comandos básicos: El alumno debe de conocer los comandos básicos para el manejo correcto de un gestor de versiones.
+   - [x] Trabajando en equipo: Saber trabajar en equipo con uso de ramas y PR's para poder realizar diferentes funcionalidades a la vez. 
   ##### Temario:
   ```
-    2.1 Gestor de versiones 
-    2.2 Comandos básicos
-    2.3 Git ignore
-    2.4 Trabajando con ramas
-    2.5 Pull Request  
+    2.1 Gestor de versiones
+    2.2 Instalango GIT
+      2.2.1 Configuración de GIT
+      2.2.2 Claves SSH
+      2.2.3 Conectango con Github 
+    2.3 Comandos básicos
+      2.3.1 git init 
+      2.3.2 git status 
+      2.3.3 git add 
+      2.3.4 git commit 
+      2.3.5 git log 
+      2.3.6 git checkout
+    2.4 Fichero .gitignore
+    2.5 Trabajando con ramas
+      2.5.1 git checkout -b
+      2.5.2 git branch 
+      2.5.3 git checkout
+      2.5.4 git rebase
+      2.5.5 git merge 
+      2.5.6
+    2.6 Pull Request
+      2.6.1 git push
+      2.6.2 git pull
+      2.6.3 Creando una pull request
   ```
 
   - 🔓 Día 0 : <a href="https://github.com/xVrzBx">Crea tu Github Readme</a> 👋
