@@ -77,7 +77,8 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
     2.2 Instalango GIT
       2.2.1 Configuración de GIT
       2.2.2 Claves SSH
-      2.2.3 Conectango con Github 
+      2.2.3 Conectando con Github
+        2.2.3.1 Personalizando tu perfil de Github
     2.3 Comandos básicos
       2.3.1 git init 
       2.3.2 git status 
