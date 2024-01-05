@@ -9,6 +9,7 @@
 - Aprende a usar `Flex` en CSS3 : <a href="https://flexboxfroggy.com/#es">Flexbox Froggy</a>
 - Aprende `UX` para tus proyectso : <a href="https://lawsofux.com/">Laws of ux</a>
 - Aprende un poco de todo (Java, HTML, CSS, MySQL): <a href="https://overapi.com/">OverAPI.com</a>
+- Curso de TodoCode para aprender Java básico <strong>Gratis</strong> : <a href = "https://todocodeacademy.com/course/java-para-principiantes/" >Java para Principiantes</a>
 - Empieza a aprender Java con este libro: <a href="https://github.com/xVrzBx/100Days100Proyects/blob/main/RESOURCES/JavaBooks/3%20Programaci%C3%B3n%20en%20Java%2C%20Vol.%203%20by%20Carlos%20Arroyo%20D%C3%ADaz.pdf"> Programación en Java, By Carlos Arroyo Díaz</a>
 - Aprende buenas prácticas de programación en Java con : <a href="https://github.com/xVrzBx/100Days100Proyects/blob/main/RESOURCES/JavaBooks/Codigo_Limpio__PDFDrive_.pdf">Código Limpio, by Robert C. Martin</a>
 
