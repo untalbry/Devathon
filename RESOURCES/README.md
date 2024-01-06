@@ -26,3 +26,4 @@
 - Curso de Java con Azure en MicrosoftLearn <a href = "https://learn.microsoft.com/es-es/training/modules/intro-to-java-azure/" >Introducción de Java en Azure</a>
 - El mejor repo para patrones de diseño en Java : <a href = "https://github.com/iluwatar/java-design-patterns">Design patterns implemented in Java</a>
 - Aprende a programar de forma segura para no tener vulnerabilidades : <a href ="https://www.hacksplaining.com/">Capacitación en seguridad para desarrolladores</a>
+- Si eres de México aplica a este programa para aprender AWS : <a href = "https://mexico.talento-cloud.com/#/" >Talento cloud</a> 
