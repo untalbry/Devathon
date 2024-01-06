@@ -16,3 +16,5 @@
 ### Recursos para <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main?tab=readme-ov-file#sentando-bases">`Sentando Bases`</a>
 
 
+### Recursos extra 
+- Curso de Java con Azure en MicrosoftLearn <a href = "https://learn.microsoft.com/es-es/training/modules/intro-to-java-azure/" >Introducción de Java en Azure</a>
