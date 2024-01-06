@@ -3,6 +3,7 @@
 ### Recusos para <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main?tab=readme-ov-file#fundamentos">`Fundamentos`</a>
 
 - Practica haciendo ramas sin un repositorio real : <a href="https://learngitbranching.js.org/?locale=es_ES"> Learn Git Branching</a>
+- Aprende que va a hacer tu comando de git con : <a href ="https://github.com/initialcommit-com/git-sim">Git-Sim</a>
   
 ### Recursos para <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main?tab=readme-ov-file#empezando-con-web">`Empezando con web`</a>
 - Aprende las etiquetas de HTML5 : <a href="https://allthetags.com/">All the Tags</a>
