@@ -12,6 +12,7 @@
 - Aprende `UX` para tus proyectso : <a href="https://lawsofux.com/">Laws of ux</a>
 - Practica y aprende `UX` : <a href="https://uxtools.co/">UX Tools</a>
 - Practica e inspirate `UI`: <a href="https://www.uicoach.io/">Become A BetterUI Designe</a>
+- Saca más inspiración de aquí : <a href ="https://collectui.com/"> Collect UI</a>
 - Obten inspiración de : <a href="https://www.awwwards.com/"> awwards</a>
 - Aprende un poco de todo (Java, HTML, CSS, MySQL): <a href="https://overapi.com/">OverAPI.com</a>
 - Curso de TodoCode para aprender Java básico <strong>Gratis</strong> : <a href = "https://todocodeacademy.com/course/java-para-principiantes/" >Java para Principiantes</a>
