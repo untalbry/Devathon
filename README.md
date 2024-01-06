@@ -318,6 +318,16 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
                  5.10.3.3 LinkedHashMap
                  5.10.3.4 TreeMap
                  5.10.3.5 EnumMap
+     6. Programación Funcional
+         6.1 Lamdas
+         6.2 Stream
+             6.2.1 Operaciones de filtrado
+                 6.2.1.1 Mapeo
+                 6.2.1.2 Reducción
+                 5.2.1.3 Recolección
+         6.3 Metodos de Referencia
+            
+           
   ```
   ### Proyectos 💻
   - 🔓 Día 3: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY3/Currencyconvertor">Conversor de divisas</a> 💵
@@ -334,8 +344,10 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
  - [x] Objetivos aquí
 
  ```
-  6. Servlets
-      6.1 ...
+  7. Repaso de protocolos HTTP
+  8. Arq. Cliente Servidor
+  9. Servlets
+      9.1 ...
  ```
  - 🔓 Día 5 : <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY5">Calcuadora de propinas</a> 💸
   <p align="right"><a href="#top">Back to top 🔼</a></p> 
