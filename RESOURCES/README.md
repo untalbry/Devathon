@@ -2,6 +2,7 @@
 
 ### Recusos para <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main?tab=readme-ov-file#fundamentos">`Fundamentos`</a>
 
+- Una guía de estudio para desarrollo web: <a href="https://thevalleyofcode.com/">The Valley of Code</a>
 - Practica haciendo ramas sin un repositorio real : <a href="https://learngitbranching.js.org/?locale=es_ES"> Learn Git Branching</a>
 - Aprende que va a hacer tu comando de git con : <a href ="https://github.com/initialcommit-com/git-sim">Git-Sim</a>
   
