@@ -382,107 +382,107 @@ done
 ## To do list ✅
 <div style="text-align: center">
 
-|  #  | Challenge                        | Status |
-|----|---------------------------------|--------|
-|  1  | Hello World                     |    ✅   |
-|  2  | Business Card                   |    ✅   |
-|  3  | Currency Calculator             |    ✅  |
-|  4  | Binary and Decimal Converter    |    ✅   |
-|  5  | Calculadora de Propinas         |    ✅   |
-|  6  | Calculadora Científica          |        |
-|  7  | Color Visualizer                |        |
-|  8  | Generador de Contraseñas        |        |
-|  9  | Pomodoro Timer                  |        |
-| 10 | Encriptador/Desencriptador      |        |
-| 11 | Landing Page                    |        |
-| 12 | Simulador de Dados              |        |
-| 13 | Juego del Gato                  |        |
-| 14 | Memorama                        |        |
-| 15 | Reloj Digital                   |        |
-| 16 | Quiz                            |        |
-| 17 | Test de Personalidad            |        |
-| 18 | Monkeytype Clone                |        |
-| 19 | Rompecabezas                    |        |
-| 20 | Piedra, Papel o Tijeras         |        |
-| 21 | Snake                           |        |
-| 22 | Paint                           |        |
-| 23 | Speed Typing Test               |        |
-| 24 | ATM System                      |        |
-| 25 | Voting System                   |        |
-| 26 | Torre de Hanói                  |        |
-| 27 | Programa con Arquitectura ORM (Tema Libre) |  |
-| 28 | Blog Personal (CRUD)            |        |
-| 29 | Clon de Twitter                 |        |
-| 30 | Clon de Pinterest               |        |
-| 31 | Kahoot                          |        |
-| 32 | Gestor de Biblioteca            |        |
-| 33 | App para Encriptar Mensajes     |        |
-| 34 | To-Do List                      |        |
-| 35 | Sudoku                          |        |
-| 36 | Busca Minas                     |        |
-| 37 | Página para Declararle tu Amor a tu Crush | |
-| 38 | Ruleta                          |        |
-| 39 | Reloj Slider                    |        |
-| 40 | App de Notas                    |        |
-| 41 | Calendar App                    |        |
-| 42 | Catálogo (React)                |        |
-| 43 | Clon de Trello (React)          |        |
-| 44 | Chat en Tiempo Real (Firebase)  |        |
-| 45 | Tetris                          |        |
-| 46 | Battleship                      |        |
-| 47 | Pacman                          |        |
-| 48 | Chess                           |        |
-| 49 | Portal de Noticias              |        |
-| 50 | API REST                        |        |
-| 51 | Login Sencillo                  |        |
-| 52 | Dashboard de Lenguajes de Programación | |
-| 53 | Charity Finder                  |        |
-| 54 | Adivina la Palabra              |        |
-| 55 | Real Time Communication         |        |
-| 56 | Event Notifier                  |        |
-| 57 | Discord Bot                     |        |
-| 58 | Telegram Bot                    |        |
-| 59 | Batalla Pokémon                 |        |
-| 60 | Widget para Notion              |        |
-| 61 | Calendar Desktop Widget         |        |
-| 62 | E-commerce                      |        |
-| 63 | E-learning                      |        |
-| 64 | Reproductor de Música           |        |
-| 65 | App para Elegir Películas       |        |
-| 66 | Sistema de Reservación de Viajes|        |
-| 67 | Coding Battle                   |        |
-| 68 | Portafolio                      |        |
-
-</div>
+|  #  | Challenge                        | Status | Para portafolio |
+|----|---------------------------------|--------|-------------------|
+|  1  | Hello World                     |    ✅   | |
+|  2  | Business Card                   |    ✅   | |
+|  3  | Currency Calculator             |    ✅  | |
+|  4  | Binary and Decimal Converter    |    ✅   | |
+|  5  | Calculadora de Propinas         |    ✅   | |
+|  6  | Calculadora Científica          |        | |
+|  7  | Color Visualizer                |        | |
+|  8  | Generador de Contraseñas        |        | |
+|  9  | Pomodoro Timer                  |        | |
+| 10 | Encriptador/Desencriptador      |        | |
+| 11 | Landing Page                    |        | |
+| 12 | Simulador de Dados              |        | |
+| 13 | Juego del Gato                  |        | |
+| 14 | Memorama                        |        | |
+| 15 | Reloj Digital                   |        | |
+| 16 | Quiz                            |        | |
+| 17 | Test de Personalidad            |        | |
+| 18 | Monkeytype Clone                |        | | 
+| 19 | Rompecabezas                    |        | | 
+| 20 | Piedra, Papel o Tijeras         |        | |    
+| 21 | Snake                           |        |  |
+| 22 | Paint                           |        | |
+| 23 | Speed Typing Test               |        | |
+| 24 | ATM System                      |        | |
+| 25 | Voting System                   |        | |
+| 26 | Torre de Hanói                  |        | |
+| 27 | Programa con Arquitectura ORM (Tema Libre) |  | |
+| 28 | Blog Personal (CRUD)            |        | |
+| 29 | Clon de Twitter                 |        | |
+| 30 | Clon de Pinterest               |        | |
+| 31 | Kahoot                          |        | |
+| 32 | Gestor de Biblioteca            |        | |
+| 33 | App para Encriptar Mensajes     |        | |
+| 34 | To-Do List                      |        | |
+| 35 | Sudoku                          |        | |
+| 36 | Busca Minas                     |        | |
+| 37 | Página para Declararle tu Amor a tu Crush | | |
+| 38 | Ruleta                          |        | |
+| 39 | Reloj Slider                    |        | |
+| 40 | App de Notas                    |        | |
+| 41 | Calendar App                    |        || 
+| 42 | Catálogo (React)                |        | |
+| 43 | Clon de Trello (React)          |        | |
+| 44 | Chat en Tiempo Real (Firebase)  |        | |
+| 45 | Tetris                          |        | |
+| 46 | Battleship                      |        | |
+| 47 | Pacman                          |        | |
+| 48 | Chess                           |        | |
+| 49 | Portal de Noticias              |        | |
+| 50 | API REST                        |        | |
+| 51 | Login Sencillo                  |        | |
+| 52 | Dashboard de Lenguajes de Programación | | |
+| 53 | Charity Finder                  |        || 
+| 54 | Adivina la Palabra              |        | |
+| 55 | Real Time Communication         |        || 
+| 56 | Event Notifier                  |        | |
+| 57 | Discord Bot                     |        || 
+| 58 | Telegram Bot                    |        || 
+| 59 | Batalla Pokémon                 |        | |
+| 60 | Widget para Notion              |        || 
+| 61 | Calendar Desktop Widget         |        || 
+| 62 | E-commerce                      |        | |
+| 63 | E-learning                      |        || 
+| 64 | Reproductor de Música           |        || 
+| 65 | App para Elegir Películas       |        || 
+| 66 | Sistema de Reservación de Viajes|        || 
+| 67 | Coding Battle                   |        || 
+| 68 | Portafolio                      |        || 
+ 
+<div>
 <p align="right"><a href="#top">Back to top 🔼</a></p>
 
 ### Movile Aplications
 
 
-|  #  | Challenge                            | Status |
-|----|---------------------------------|--------|
-| 69 | Interfaz de Smartwatch              |        |
-| 70 | App del Clima                       |        |
-| 71 | App de Finanzas Personales          |        |
-| 72 | App Date Selector                   |        |
-| 73 | Tamagotchi                          |        |
-| 74 | Sistema de Calificaciones           |        |
-| 75 | Habbit Tracker                      |        |
+|  #  | Challenge                            | Status |  Para portafolio |
+|----|---------------------------------------|--------|------------------|
+| 69 | Interfaz de Smartwatch              |        | |
+| 70 | App del Clima                       |        ||
+| 71 | App de Finanzas Personales          |        ||
+| 72 | App Date Selector                   |        ||
+| 73 | Tamagotchi                          |        ||
+| 74 | Sistema de Calificaciones           |        ||
+| 75 | Habbit Tracker                      |        ||
 
 
 
 ### Extra
 
-|  #  | Challenge                                     | Status |
-|----|------------------------------------------|--------|
-| 76 | Snippet                                      |        |
-| 77 | Sistema de Automatización de Mensajes        |        |
-| 78 | Filtro para TikTok                           |        |
-| 95 | Minecraft Mod                                |        |
-| 96 | Wiki "Recetas de Crafteo Minecraft"          |        |
-| 97 | Endless Runner                               |        |
-| 98 | Among Us para Programadores                 |        |
-|100 | Extensión de Google Chrome                   |        |
+|  #  | Challenge                                     | Status |  Para portafolio |
+|----|------------------------------------------------|--------|------------------|
+| 76 | Snippet                                      |        | |
+| 77 | Sistema de Automatización de Mensajes        |        | |
+| 78 | Filtro para TikTok                           |        | |
+| 95 | Minecraft Mod                                |        | |
+| 96 | Wiki "Recetas de Crafteo Minecraft"          |        | |
+| 97 | Endless Runner                               |        | |
+| 98 | Among Us para Programadores                 |        | |
+|100 | Extensión de Google Chrome                   |        | |
 
 
 <p align="right"><a href="#top">Back to top 🔼</a></p>
