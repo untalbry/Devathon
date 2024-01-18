@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Contributions-Welcome-green?style=for-the-badge&logo=Github&labelColor=%23131321&color=%233db80f">
 </div>
 
-<h1 align="center">💻100 DÍAS 100 PROYECTOS </h1> 
+<h1 align="center">💻100 PROYECTOS DE PROGRAMACIÓN </h1> 
 
 
 <br>
