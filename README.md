@@ -492,3 +492,4 @@ done
  <a href="https://www.instagram.com/bbupiicsa/"><img  src="https://skillicons.dev/icons?i=instagram" /> </a> 
   <a href="https://discord.gg/cyXd37NTbq"><img  src="https://skillicons.dev/icons?i=discord" /> </a> 
 </p>
+<h1 align="center">💻100 PROYECTOS DE PROGRAMACIÓN </h1> 
