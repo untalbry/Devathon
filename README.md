@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Contributions-Welcome-green?style=for-the-badge&logo=Github&labelColor=%23131321&color=%233db80f">
 </div>
 
-<h1 align="center">💻100 PROYECTOS DE PROGRAMACIÓN </h1> 
+<h1 align="center">💻100 DÍAS 100 PROYECTOS </h1> 
 
 
 <br>
@@ -492,4 +492,4 @@ done
  <a href="https://www.instagram.com/bbupiicsa/"><img  src="https://skillicons.dev/icons?i=instagram" /> </a> 
   <a href="https://discord.gg/cyXd37NTbq"><img  src="https://skillicons.dev/icons?i=discord" /> </a> 
 </p>
-<h1 align="center">💻100 PROYECTOS DE PROGRAMACIÓN </h1> 
+
