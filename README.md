@@ -1,27 +1,25 @@
-
+# 100 DÍAS 100 PROYECTOS 💻
 
 <div align="right">
   <img src="https://img.shields.io/github/stars/xVrzBx/100Days100Proyects?style=for-the-badge&logo=Github&labelColor=%23131321&color=%23f69a05">
  <img src="https://img.shields.io/github/watchers/xVrzBx/100Days100Proyects?style=for-the-badge&logo=Github&labelColor=%23131321&color=%231185ff">
-<img src="https://img.shields.io/badge/Contributions-Welcome-green?style=for-the-badge&logo=Github&labelColor=%23131321&color=%233db80f">
+<img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg">
 </div>
-
-<h1 align="center">💻100 DÍAS 100 PROYECTOS </h1> 
+<br>
 
 
 <br>
-<p align="center" >En este desafío harémos un proyecto de software todos los días para mejorar nuestras habilidades técnicas como desarrolladores <strong>BACKEND</strong> y <strong>FRONTEND</strong>, lograrémos estos objetivos practicando todos los días porque la práctica hace al maestro.</p>
-
-<br>
-
-<hr>
-
+En este desafío harémos un proyecto de software todos los días para mejorar nuestras habilidades técnicas como desarrolladores <strong>BACKEND</strong> y <strong>FRONTEND</strong>, lograrémos estos objetivos practicando todos los días porque la práctica hace al maestro.
  
 <br>
 
 ### Usaremos estas tecnologías 👇
-<p > 
+<p align="center"> 
   <img  src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,mysql,html,css,js,ts" /> 
+
+</p>
+<p align="center">
+    <img src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif" >
 </p>
 
 ## Binary Brains Club? 
@@ -29,14 +27,18 @@
    <img align="left" width="300" src="https://github.com/xVrzBx/100Days100Proyects/assets/91161604/4a45945d-5357-4e4f-80b7-0fb4ef25dfd0" />
 
 <p align="left">
-  <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>es un club de desarrollo de software que se dedica a proporcionar un entorno propicio para el crecimiento profesional de los entusiastas del desarrollo de software. Su misión abarca la creación de un ambiente seguro y respetuoso que valore a todos los miembros en su viaje de aprendizaje, ofreciendo recursos de alta calidad, capacitación y tutoría para mejorar habilidades técnicas, fomentar la innovación y promover la participación activa en eventos colaborativos.
-  </p>
-<br>
-<p align="left">
-Además, el club busca inculcar valores de integridad, ética y responsabilidad en la tecnología, inspirando a sus miembros a alcanzar metas sobresalientes en sus carreras y contribuir al avance de la tecnología, destacando el compromiso con la excelencia y el constante deseo de superar desafíos en busca de nuevos horizontes tecnológicos.
-</p><br> <br>
-<p>
+  <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>es un club de desarrollo de software, donde nuestra misión en Binary Brains es proporcionar un espacio donde los entusiastas del desarrollo de software puedan prosperar y crecer profesionalmente. Buscamos:
+
+1. Fomentar un ambiente seguro y respetuoso en el que todos los miembros se sientan valorados y apoyados en su viaje de aprendizaje.
+2. Ofrecer recursos de alta calidad, capacitación y tutoría para mejorar las habilidades técnicas y fomentar la innovación.
+3. Facilitar la participación activa de nuestros miembros en eventos como hackatones, concursos y proyectos colaborativos, impulsando así su desarrollo y promoviendo el espíritu de equipo.
+4. Promover valores de integridad, ética y responsabilidad en la tecnología, creando profesionales de software conscientes de su impacto en la sociedad.
+5. Inspirar a nuestros miembros a alcanzar metas sobresalientes en su carrera, llevando sus habilidades al más alto nivel y contribuyendo al avance de la tecnología.
+
+En Binary Brains, estamos comprometidos con la excelencia en el desarrollo de software y en el crecimiento de nuestros miembros como expertos en su campo, siempre en busca de nuevos horizontes tecnológicos y la superación constante de desafíos, estamos dispuestos a ser muy ambiciosos y que seas ambicioso, nosotros creemos en ti, es hora de que tu también lo hagas. 
+
 Usaremos este repositorio para enseñar desarrollo de software en el club <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>, se seguirá esta ruta y para practicar realizarán los proyectos.
+<br> 
 </p>
 <br> 
 
@@ -47,7 +49,7 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 > Te recomiendo que revises los <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/RESOURCES">recursos adicionales</a> para complementar los temas vistos de cada bloque  <br>
 > 
 <details align="left">
-  <summary> <h2 id="#Fundamentos" >Fundamentos</h2></summary>
+  <summary> <h2 >Fundamentos</h2></summary>
   <br>
   
  ### 1. Internet 🌐
@@ -330,7 +332,9 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 
   <p align="right"><a href="#top">Back to top 🔼</a></p> 
   </details>
-
+<p align="center">
+   <img src="https://github.com/xVrzBx/xVrzBx/assets/91161604/343bb6e7-5792-46e4-b778-46697817b4d5">
+</p>
 
 ## Vamos allá! 💻
 OK pero no voy a hacer 100 carpetas para guardar los proyectos a mano, para eso mejor hice este pequeño bash scritp: 
@@ -451,9 +455,3 @@ done
 
 
 <p align="right"><a href="#top">Back to top 🔼</a></p>
-
-### Socialmedia 
-<p align="center"> 
- <a href="https://www.instagram.com/bbupiicsa/"><img  src="https://skillicons.dev/icons?i=instagram" /> </a> 
-  <a href="https://discord.gg/cyXd37NTbq"><img  src="https://skillicons.dev/icons?i=discord" /> </a> 
-</p>
