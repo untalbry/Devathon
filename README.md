@@ -69,14 +69,37 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
    ```
  ### 2. Git ⬆
   ##### Objetivos:
-   - [x] Objetivo 1
+   - [x] Comprender la importancia de un gestor de versiones: Reconocer las ventajas de utilizar un sistema de control de versiones como Git.
+   - [x] Instalación de GIT: El alumno deberá de saber instalar git y configurarlo correctamente para su funcionamiento.
+   - [x] Comandos básicos: El alumno debe de conocer los comandos básicos para el manejo correcto de un gestor de versiones.
+   - [x] Trabajando en equipo: Saber trabajar en equipo con uso de ramas y PR's para poder realizar diferentes funcionalidades a la vez. 
   ##### Temario:
   ```
-    2.1 Gestor de versiones 
-    2.2 Comandos básicos
-    2.3 Git ignore
-    2.4 Trabajando con ramas
-    2.5 Pull Request  
+    2.1 Gestor de versiones
+    2.2 Instalango GIT
+      2.2.1 Configuración de GIT
+      2.2.2 Claves SSH
+      2.2.3 Conectando con Github
+        2.2.3.1 Personalizando tu perfil de Github
+    2.3 Comandos básicos
+      2.3.1 git init 
+      2.3.2 git status 
+      2.3.3 git add 
+      2.3.4 git commit 
+      2.3.5 git log 
+      2.3.6 git checkout
+    2.4 Fichero .gitignore
+    2.5 Trabajando con ramas
+      2.5.1 git checkout -b
+      2.5.2 git branch 
+      2.5.3 git checkout
+      2.5.4 git rebase
+      2.5.5 git merge 
+      2.5.6
+    2.6 Pull Request
+      2.6.1 git push
+      2.6.2 git pull
+      2.6.3 Creando una pull request
   ```
 
   - 🔓 Día 0 : <a href="https://github.com/xVrzBx">Crea tu Github Readme</a> 👋
@@ -297,6 +320,16 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
                  5.10.3.3 LinkedHashMap
                  5.10.3.4 TreeMap
                  5.10.3.5 EnumMap
+     6. Programación Funcional
+         6.1 Lamdas
+         6.2 Stream
+             6.2.1 Operaciones de filtrado
+                 6.2.1.1 Mapeo
+                 6.2.1.2 Reducción
+                 5.2.1.3 Recolección
+         6.3 Metodos de Referencia
+            
+           
   ```
   ### Proyectos 💻
   - 🔓 Día 3: <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY3/Currencyconvertor">Conversor de divisas</a> 💵
@@ -313,8 +346,10 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
  - [x] Objetivos aquí
 
  ```
-  6. Servlets
-      6.1 ...
+  7. Repaso de protocolos HTTP
+  8. Arq. Cliente Servidor
+  9. Servlets
+      9.1 ...
  ```
  - 🔓 Día 5 : <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY5">Calcuadora de propinas</a> 💸
   <p align="right"><a href="#top">Back to top 🔼</a></p> 
@@ -351,107 +386,113 @@ done
 ## To do list ✅
 <div style="text-align: center">
 
-|  #  | Challenge                        | Status |
-|----|---------------------------------|--------|
-|  1  | Hello World                     |    ✅   |
-|  2  | Business Card                   |    ✅   |
-|  3  | Currency Calculator             |    ✅  |
-|  4  | Binary and Decimal Converter    |    ✅   |
-|  5  | Calculadora de Propinas         |    ✅   |
-|  6  | Calculadora Científica          |        |
-|  7  | Color Visualizer                |        |
-|  8  | Generador de Contraseñas        |        |
-|  9  | Pomodoro Timer                  |        |
-| 10 | Encriptador/Desencriptador      |        |
-| 11 | Landing Page                    |        |
-| 12 | Simulador de Dados              |        |
-| 13 | Juego del Gato                  |        |
-| 14 | Memorama                        |        |
-| 15 | Reloj Digital                   |        |
-| 16 | Quiz                            |        |
-| 17 | Test de Personalidad            |        |
-| 18 | Monkeytype Clone                |        |
-| 19 | Rompecabezas                    |        |
-| 20 | Piedra, Papel o Tijeras         |        |
-| 21 | Snake                           |        |
-| 22 | Paint                           |        |
-| 23 | Speed Typing Test               |        |
-| 24 | ATM System                      |        |
-| 25 | Voting System                   |        |
-| 26 | Torre de Hanói                  |        |
-| 27 | Programa con Arquitectura ORM (Tema Libre) |  |
-| 28 | Blog Personal (CRUD)            |        |
-| 29 | Clon de Twitter                 |        |
-| 30 | Clon de Pinterest               |        |
-| 31 | Kahoot                          |        |
-| 32 | Gestor de Biblioteca            |        |
-| 33 | App para Encriptar Mensajes     |        |
-| 34 | To-Do List                      |        |
-| 35 | Sudoku                          |        |
-| 36 | Busca Minas                     |        |
-| 37 | Página para Declararle tu Amor a tu Crush | |
-| 38 | Ruleta                          |        |
-| 39 | Reloj Slider                    |        |
-| 40 | App de Notas                    |        |
-| 41 | Calendar App                    |        |
-| 42 | Catálogo (React)                |        |
-| 43 | Clon de Trello (React)          |        |
-| 44 | Chat en Tiempo Real (Firebase)  |        |
-| 45 | Tetris                          |        |
-| 46 | Battleship                      |        |
-| 47 | Pacman                          |        |
-| 48 | Chess                           |        |
-| 49 | Portal de Noticias              |        |
-| 50 | API REST                        |        |
-| 51 | Login Sencillo                  |        |
-| 52 | Dashboard de Lenguajes de Programación | |
-| 53 | Charity Finder                  |        |
-| 54 | Adivina la Palabra              |        |
-| 55 | Real Time Communication         |        |
-| 56 | Event Notifier                  |        |
-| 57 | Discord Bot                     |        |
-| 58 | Telegram Bot                    |        |
-| 59 | Batalla Pokémon                 |        |
-| 60 | Widget para Notion              |        |
-| 61 | Calendar Desktop Widget         |        |
-| 62 | E-commerce                      |        |
-| 63 | E-learning                      |        |
-| 64 | Reproductor de Música           |        |
-| 65 | App para Elegir Películas       |        |
-| 66 | Sistema de Reservación de Viajes|        |
-| 67 | Coding Battle                   |        |
-| 68 | Portafolio                      |        |
-
-</div>
+|  #  | Challenge                        | Status | Para portafolio |
+|----|---------------------------------|--------|-------------------|
+|  1  | Hello World                     |    ✅   | |
+|  2  | Business Card                   |    ✅   | |
+|  3  | Currency Calculator             |    ✅  | |
+|  4  | Binary and Decimal Converter    |    ✅   | |
+|  5  | Calculadora de Propinas         |    ✅   | |
+|  6  | Calculadora Científica          |        | |
+|  7  | Color Visualizer                |        | |
+|  8  | Generador de Contraseñas        |        | |
+|  9  | Pomodoro Timer                  |        | |
+| 10 | Encriptador/Desencriptador      |        | |
+| 11 | Landing Page                    |        | |
+| 12 | Simulador de Dados              |        | |
+| 13 | Juego del Gato                  |        | |
+| 14 | Memorama                        |        | |
+| 15 | Reloj Digital                   |        | |
+| 16 | Quiz                            |        | |
+| 17 | Test de Personalidad            |        | |
+| 18 | Monkeytype Clone                |        | | 
+| 19 | Rompecabezas                    |        | | 
+| 20 | Piedra, Papel o Tijeras         |        | |    
+| 21 | Snake                           |        |  |
+| 22 | Paint                           |        | |
+| 23 | Speed Typing Test               |        | |
+| 24 | ATM System                      |        | |
+| 25 | Voting System                   |        | |
+| 26 | Torre de Hanói                  |        | |
+| 27 | Programa con Arquitectura ORM (Tema Libre) |  | |
+| 28 | Blog Personal (CRUD)            |        | |
+| 29 | Clon de Twitter                 |        | |
+| 30 | Clon de Pinterest               |        | |
+| 31 | Kahoot                          |        | |
+| 32 | Gestor de Biblioteca            |        | |
+| 33 | App para Encriptar Mensajes     |        | |
+| 34 | To-Do List                      |        | |
+| 35 | Sudoku                          |        | |
+| 36 | Busca Minas                     |        | |
+| 37 | Página para Declararle tu Amor a tu Crush | | |
+| 38 | Ruleta                          |        | |
+| 39 | Reloj Slider                    |        | |
+| 40 | App de Notas                    |        | |
+| 41 | Calendar App                    |        || 
+| 42 | Catálogo (React)                |        | |
+| 43 | Clon de Trello (React)          |        | |
+| 44 | Chat en Tiempo Real (Firebase)  |        | |
+| 45 | Tetris                          |        | |
+| 46 | Battleship                      |        | |
+| 47 | Pacman                          |        | |
+| 48 | Chess                           |        | |
+| 49 | Portal de Noticias              |        | |
+| 50 | API REST                        |        | |
+| 51 | Login Sencillo                  |        | |
+| 52 | Dashboard de Lenguajes de Programación | | |
+| 53 | Charity Finder                  |        || 
+| 54 | Adivina la Palabra              |        | |
+| 55 | Real Time Communication         |        || 
+| 56 | Event Notifier                  |        | |
+| 57 | Discord Bot                     |        || 
+| 58 | Telegram Bot                    |        || 
+| 59 | Batalla Pokémon                 |        | |
+| 60 | Widget para Notion              |        || 
+| 61 | Calendar Desktop Widget         |        || 
+| 62 | E-commerce                      |        | |
+| 63 | E-learning                      |        || 
+| 64 | Reproductor de Música           |        || 
+| 65 | App para Elegir Películas       |        || 
+| 66 | Sistema de Reservación de Viajes|        || 
+| 67 | Coding Battle                   |        || 
+| 68 | Portafolio                      |        || 
+ 
+<div>
 <p align="right"><a href="#top">Back to top 🔼</a></p>
 
 ### Movile Aplications
 
 
-|  #  | Challenge                            | Status |
-|----|---------------------------------|--------|
-| 69 | Interfaz de Smartwatch              |        |
-| 70 | App del Clima                       |        |
-| 71 | App de Finanzas Personales          |        |
-| 72 | App Date Selector                   |        |
-| 73 | Tamagotchi                          |        |
-| 74 | Sistema de Calificaciones           |        |
-| 75 | Habbit Tracker                      |        |
+|  #  | Challenge                            | Status |  Para portafolio |
+|----|---------------------------------------|--------|------------------|
+| 69 | Interfaz de Smartwatch              |        | |
+| 70 | App del Clima                       |        ||
+| 71 | App de Finanzas Personales          |        ||
+| 72 | App Date Selector                   |        ||
+| 73 | Tamagotchi                          |        ||
+| 74 | Sistema de Calificaciones           |        ||
+| 75 | Habbit Tracker                      |        ||
 
 
 
 ### Extra
 
-|  #  | Challenge                                     | Status |
-|----|------------------------------------------|--------|
-| 76 | Snippet                                      |        |
-| 77 | Sistema de Automatización de Mensajes        |        |
-| 78 | Filtro para TikTok                           |        |
-| 95 | Minecraft Mod                                |        |
-| 96 | Wiki "Recetas de Crafteo Minecraft"          |        |
-| 97 | Endless Runner                               |        |
-| 98 | Among Us para Programadores                 |        |
-|100 | Extensión de Google Chrome                   |        |
+|  #  | Challenge                                     | Status |  Para portafolio |
+|----|------------------------------------------------|--------|------------------|
+| 76 | Snippet                                      |        | |
+| 77 | Sistema de Automatización de Mensajes        |        | |
+| 78 | Filtro para TikTok                           |        | |
+| 95 | Minecraft Mod                                |        | |
+| 96 | Wiki "Recetas de Crafteo Minecraft"          |        | |
+| 97 | Endless Runner                               |        | |
+| 98 | Among Us para Programadores                 |        | |
+|100 | Extensión de Google Chrome                   |        | |
 
 
 <p align="right"><a href="#top">Back to top 🔼</a></p>
+
+### Socialmedia 
+<p align="center"> 
+ <a href="https://www.instagram.com/bbupiicsa/"><img  src="https://skillicons.dev/icons?i=instagram" /> </a> 
+  <a href="https://discord.gg/cyXd37NTbq"><img  src="https://skillicons.dev/icons?i=discord" /> </a> 
+</p>
