@@ -487,6 +487,11 @@ done
 
 <p align="right"><a href="#top">Back to top 🔼</a></p>
 
+### Contribuciones 
+> [!IMPORTANT]
+> Si quieres añadir un reto a los 100 proyectos abre un issue con el titulo del proyecto y las especificaciones del mismo<br>
+> Es importante que coloques bien los requisitos para saber en que número lo colocamos 
+
 ### Socialmedia 
 <p align="center"> 
  <a href="https://www.instagram.com/bbupiicsa/"><img  src="https://skillicons.dev/icons?i=instagram" /> </a> 
