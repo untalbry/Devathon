@@ -14,6 +14,10 @@
 
 <br>
 
+> [!IMPORTANT]
+> Si quieres añadir un reto a los 100 proyectos abre un issue con el titulo del proyecto y las especificaciones del mismo 
+> Es importante que coloques bien los requisitos para saber en que número lo colocamos
+> 
 <hr>
 
  
@@ -43,9 +47,11 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 
 # Tablas de contenidos
 
-> [!IMPORTANT]
+> [!TIP]
 > Te recomiendo que revises los <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/RESOURCES">recursos adicionales</a> para complementar los temas vistos de cada bloque  <br>
-> 
+> También revisa nuestra <a href= "https://github.com/xVrzBx/100Days100Proyects/blob/main/MisionVisionValores.md" >misión y visión </a>, junto con nuestro <a href="https://github.com/xVrzBx/100Days100Proyects/blob/main/C%C3%B3digo%20de%20conducta%20de%20la%20comunidad%20Binary%20Brains.md">código de conducta  </a>
+
+
 <details align="left">
   <summary> <h2 id="#Fundamentos" >Fundamentos</h2></summary>
   <br>
@@ -488,12 +494,12 @@ done
 <p align="right"><a href="#top">Back to top 🔼</a></p>
 
 ### Contribuciones 
-> [!IMPORTANT]
-> Si quieres añadir un reto a los 100 proyectos abre un issue con el titulo del proyecto y las especificaciones del mismo<br>
-> Es importante que coloques bien los requisitos para saber en que número lo colocamos 
+
 
 ### Socialmedia 
 <p align="center"> 
  <a href="https://www.instagram.com/bbupiicsa/"><img  src="https://skillicons.dev/icons?i=instagram" /> </a> 
   <a href="https://discord.gg/cyXd37NTbq"><img  src="https://skillicons.dev/icons?i=discord" /> </a> 
 </p>
+
+
