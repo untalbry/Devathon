@@ -396,8 +396,41 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
  - 🔓 Día 5 : <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY5">Calcuadora de propinas</a> 💸
   <p align="right"><a href="#top">Back to top 🔼</a></p> 
 
+### 8 CSS Avanzado 
+#### Bloque 1
+##### Objetivos:
+ - [x] Comprender los principios fundamentales del diseño responsivo y su importancia en la experiencia del usuario.
+ - [x] Implementar media queries para adaptar la presentación de la interfaz de usuario a diferentes dispositivos y tamaños de pantalla.
+ - [x] Estudiar la propiedad @keyframes para crear animaciones fluidas y personalizadas.
+ - [x] Entender cómo optimizar el rendimiento de las animaciones y utilizar las propiedades de aceleración y desaceleración.
+ - [x] Estudiar la importancia del rendimiento y las mejores prácticas, como la minimización y combinación de archivos CSS para reducir la carga de la página.
 
-### 8 Javascript 
+ ```
+  8.1 Responsive 
+      8.1.1 Principios del diseño responsive
+      8.1.2 Importancia del diseño adaptativo en la UX/UI
+      8.1.3 Implementación de media queries para diferentes dispositivos
+  8.2 Flexbox y Grid para diseños avanzados
+      8.2.1 Repaso de flex y grid
+      8.2.2 Flexbox avanzado
+      8.2.3 Grid Avanzado
+      8.2.4 Layouts avanzados
+   8.3 Animaciones 
+      8.3.1 Conceptos de animaciones en CSS
+      8.3.2 Creación de animaciones personalizadas con @keyframes
+      8.3.3 Mejora de rendimiento en animaciones
+      8.3.4 Propiedades de aceleración y desaceleración
+  8.4 Temas avanzados 
+      8.4.1 Especificidad
+      8.4.2 Selectores y pseudo-elementos avanzados
+      8.4.3 Implementación de variables en CSS
+      8.4.4 Temas personalizados con variables
+      8.4.5 Minimización de combinaciones para mayor rendimiento
+
+ ```
+
+
+### 9 Javascript 
 #### Bloque 1
 ##### Objetivos:
  - [x] Objetivos aquí
