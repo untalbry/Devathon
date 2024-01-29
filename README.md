@@ -358,10 +358,11 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 
  ```
   7.1 Repaso de protocolos HTTP
-  7.2 Formularios HTML 
+  7.2 Formularios HTML
     7.2.1 Métodos de peticiones HTTP
       7.2.1.1 POST
-      7.2.1.2 GET 
+      7.2.1.2 GET
+    7.2.2 Etiquetas HTML 
   7.3 Arquitectura Cliente Servidor
   7.4 Gestor de dependencias
     7.4.1 Maven
