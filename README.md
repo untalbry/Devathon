@@ -256,7 +256,10 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 ```
  #### Bloque 3
  ##### Objetivos:
-   - [x] Objetivo 1
+   - [x] Comprender el uso de modificadores Final y Static
+- [x] 	Saber utilizar Wrapper clases para convertir tipos primitivos en objetos y aprovechar sus métodos. 
+-	[x] Entender el concepto de excepciones y su clasificación. Sabiendo como manejar excepciones mediante bloques try, catch y finally, además de utilizar throw y throws para gestionar y lanzar excepciones.  
+
 ```
     5.5 Uso de Final
     5.6 Uso de Static
