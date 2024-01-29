@@ -353,10 +353,40 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
  - [x] Objetivos aquí
 
  ```
-  7. Repaso de protocolos HTTP
-  8. Arq. Cliente Servidor
-  9. Servlets
-      9.1 ...
+  7.1 Repaso de protocolos HTTP
+  7.2 Formularios HTML 
+    7.2.1 Métodos de peticiones HTTP
+      7.2.1.1 POST
+      7.2.1.2 GET 
+  7.3 Arquitectura Cliente Servidor
+  7.4 Gestor de dependencias
+    7.4.1 Maven
+      7.4.1.1 Archivo pom.xml
+      7.4.1.2 Ciclo de vida y fases de Maven
+      7.4.1.3 Comandos Maven
+      7.4.1.4 Plugins, artefactos, dependencias, versiones y repositorios 
+  7.5 Servlets
+      7.5.1 Java Server Pages
+        7.5.1.1 Etiquetas JSP
+        7.5.1.2 Etiquetas Personalizadas
+      7.5.2 Apache Tomcat 
+      7.5.3 Sesiones y Cookies
+      7.5.4 Ciclo de vida de un Servlet
+      7.5.5 Configurar un proyecto web con Servlets
+      7.5.6 WEB.xml
+        7.5.6.1 Notaciones HttpServlet, HttpServletRequest y HttpServletResponse
+        7.5.6.1 Mapeo de Servlets
+        7.5.6.2 Páginas por defecto y error
+        7.5.6.3 Seguridad
+      7.5.7 Manejo de parámetros en Servlets
+      7.5.8 Manejo de sesiones
+        7.5.8.1 Crear y obtener una sesión en un Servlet.
+        7.5.8.2 Almacenar y recuperar datos en la sesión. 
+        7.5.8.3 Invalidar una sesión.
+      7.5.9 Trabajo con cookies en Servlets:
+        7.5.9.1 Crear y enviar cookies desde un Servlet.
+        7.5.9.2 Recuperar y utilizar cookies en un Servlet.
+        7.5.9.3 Eliminar cookies en un Servlet.
  ```
  - 🔓 Día 5 : <a href="https://github.com/xVrzBx/100Days100Proyects/tree/main/DAY5">Calcuadora de propinas</a> 💸
   <p align="right"><a href="#top">Back to top 🔼</a></p> 
