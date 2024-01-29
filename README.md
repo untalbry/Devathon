@@ -350,7 +350,11 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 ### 7 Introducción a Java EE 
 #### Bloque 1
 ##### Objetivos:
- - [x] Objetivos aquí
+ - [x] Dominar la creación y validación de formularios HTML, junto con la comprensión de los métodos de peticiones HTTP asociados (POST y GET).
+-	[x] Entender los conceptos básicos de la arquitectura cliente-servidor.
+- [x]	El alumno se familiarizará con un gestor de dependencias, comprendiendo su utilidad y el como trabajar correctamente con el 
+-	[x] Desarrollar habilidades integrales en el manejo de Servlets en Java, abarcando la configuración de proyectos web con Apache Tomcat, la implementación de Java Server Pages (JSP), y la gestión avanzada de sesiones, cookies, parámetros, y configuraciones de servlets, asegurando un dominio completo del ciclo de vida de un Servlet
+
 
  ```
   7.1 Repaso de protocolos HTTP
