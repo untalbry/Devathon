@@ -433,7 +433,21 @@ Usaremos este repositorio para enseñar desarrollo de software en el club <stron
 ### 9 Javascript 
 #### Bloque 1
 ##### Objetivos:
- - [x] Objetivos aquí
+ - [x] Comprender la importancia de JavaScript en el desarrollo web.
+ - [x] Entender los conceptos de declaración de variables y su scope.
+ - [x] Dominar la creación de llamadas de funciones.
+ - [x] Comprender el concepto de hoisting.
+ - [x] Comprender y explorar el concepto de ciudadanos de primera clase.
+ - [x] Entender la creación y manipulación de objetos en JavaScript.
+ - [x] Aplicar el operador spead operator para simplificar la manipulación de objetos.
+ - [x] Repasar los principios básicos de la programación funcional
+ - [x] Implementar el manejo de errores mediante try-catch.
+ - [x] Comprender la programación asíncrona.
+ - [x] Entender el concepto de generadores e iteradores.
+ - [x] Comprender el manejo de eventos en el navegador.
+ - [x] Explorar las capacidades del almacenamiento local y de sesión.
+ - [x] Utilizar fetch y axios para realizar peticiones web. 
+
 
  ```
   6. Javascript
