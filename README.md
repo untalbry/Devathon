@@ -474,106 +474,87 @@ done
 <div style="text-align: center">
 
 |  #  | Challenge                        | Status | Para portafolio |
-|----|---------------------------------|--------|-------------------|
-|  1  | Hello World                     |    ✅   | |
-|  2  | Business Card                   |    ✅   | |
-|  3  | Currency Calculator             |    ✅  | |
-|  4  | Binary and Decimal Converter    |    ✅   | |
-|  5  | Calculadora de Propinas         |    ✅   | |
-|  6  | Calculadora Científica          |        | |
-|  7  | Color Visualizer                |        | |
-|  8  | Generador de Contraseñas        |        | |
-|  9  | Pomodoro Timer                  |        | |
-| 10 | Encriptador/Desencriptador      |        | |
-| 11 | Landing Page                    |        | |
-| 12 | Simulador de Dados              |        | |
-| 13 | Juego del Gato                  |        | |
-| 14 | Memorama                        |        | |
-| 15 | Reloj Digital                   |        | |
-| 16 | Quiz                            |        | |
-| 17 | Test de Personalidad            |        | |
-| 18 | Monkeytype Clone                |        | | 
-| 19 | Rompecabezas                    |        | | 
-| 20 | Piedra, Papel o Tijeras         |        | |    
-| 21 | Snake                           |        |  |
-| 22 | Paint                           |        | |
-| 23 | Speed Typing Test               |        | |
-| 24 | ATM System                      |        | |
-| 25 | Voting System                   |        | |
-| 26 | Torre de Hanói                  |        | |
-| 27 | Programa con Arquitectura ORM (Tema Libre) |  | |
-| 28 | Blog Personal (CRUD)            |        | |
-| 29 | Clon de Twitter                 |        | |
-| 30 | Clon de Pinterest               |        | |
-| 31 | Kahoot                          |        | |
-| 32 | Gestor de Biblioteca            |        | |
-| 33 | App para Encriptar Mensajes     |        | |
-| 34 | To-Do List                      |        | |
-| 35 | Sudoku                          |        | |
-| 36 | Busca Minas                     |        | |
-| 37 | Página para Declararle tu Amor a tu Crush | | |
-| 38 | Ruleta                          |        | |
-| 39 | Reloj Slider                    |        | |
-| 40 | App de Notas                    |        | |
-| 41 | Calendar App                    |        || 
-| 42 | Catálogo (React)                |        | |
-| 43 | Clon de Trello (React)          |        | |
-| 44 | Chat en Tiempo Real (Firebase)  |        | |
-| 45 | Tetris                          |        | |
-| 46 | Battleship                      |        | |
-| 47 | Pacman                          |        | |
-| 48 | Chess                           |        | |
-| 49 | Portal de Noticias              |        | |
-| 50 | API REST                        |        | |
-| 51 | Login Sencillo                  |        | |
-| 52 | Dashboard de Lenguajes de Programación | | |
-| 53 | Charity Finder                  |        || 
-| 54 | Adivina la Palabra              |        | |
-| 55 | Real Time Communication         |        || 
-| 56 | Event Notifier                  |        | |
-| 57 | Discord Bot                     |        || 
-| 58 | Telegram Bot                    |        || 
-| 59 | Batalla Pokémon                 |        | |
-| 60 | Widget para Notion              |        || 
-| 61 | Calendar Desktop Widget         |        || 
-| 62 | E-commerce                      |        | |
-| 63 | E-learning                      |        || 
-| 64 | Reproductor de Música           |        || 
-| 65 | App para Elegir Películas       |        || 
-| 66 | Sistema de Reservación de Viajes|        || 
-| 67 | Coding Battle                   |        || 
-| 68 | Portafolio                      |        || 
+|----|-----------------------------------|--------|-----------------|
+|  1  | Hello World                      |    ✅  |                 |
+|  2  | Business Card                    |    ✅  |                 |
+|  3  | Currency Calculator              |    ✅  |                 |
+|  4  | Binary and Decimal Converter     |    ✅  |                 |
+|  5  | Tips calculator                  |    ✅  |                 |
+|  6  | Scientific calculator            |        |                 |
+|  7  | Color visualizer                 |        |                 |
+|  8  | Password Generator               |        |                 |
+|  9  | Pomodoro Timer                   |        |                 |
+| 10  | Encryptor                        |        |                 |
+| 11  | Digital Clock                    |        |                 |
+| 12  | Landing page                     |        |                 |
+| 13  | Crush web <3                      |        |                 |
+| 14  | Catalogue                        |        |                 |
+| 15  | To-Do List                       |        |                 |
+| 16  | Quiz                             |        |                 |
+| 17  | Personality test                 |        |                 |
+| 18  | Dice simulator                   |        |                 |
+| 19  | Rulet                            |        |                 |
+| 20  | Tick tack toe                     |        |                 |
+| 21  | Paper scissors rock               |        |                 |
+| 22  | Snake                            |        |                 |
+| 23  | Memory                           |        |                 |
+| 24  | Puzze                            |        |                 |
+| 25  | Sudoku                           |        |                 |
+| 26  | Tetris                            |        |                 |
+| 27  | Minesweeper                       |        |                 |
+| 28  | Battleship game                   |        |                 |
+| 29  | Pacman                            |        |                 |
+| 30  | Paint                             |        |                 |
+| 31  | Chess                             |        |                 |
+| 32  | ORM architecture                  |        |                 |
+| 33  | API REST                          |        |                 |
+| 34  | Notion widget                     |        |                 |
+| 35  | Discord bot                       |        |                 |
+| 36  | Telegram bot                      |        |                 |
+| 37  | Guess the word                    |        |                 |
+| 38  | Programming languages Dashboard  |        |                 |
+| 39  | Notes App                         |        |                 |
+| 40  | Login system                      |        |                 |
+| 41  | Voting System                      |        |                 |
+| 42  | ATM System                        |        |                 |
+| 43  | Personal Blog                     |        |                 |
+| 44  | Browser                            |        |                 |
+| 45  | Charity Finder                     |        |                 |
+| 46  | Library System                      |        |                 |
+| 47  | News web                            |        |                 |
+| 48  | Racking movies app                  |        |                 |
+| 49  | Real-time chat                       |        |                 |
+| 50  | Twitter clone                        |        |                 |
+| 51  | Pinterest Clone                      |        |                 |
+| 52  | Kahoot                                |        |                 |
+| 53  | Speed typing test                     |        |                 |
+| 54  | Habit tracker                         |        |                 |
+| 55  | Trello clone                          |        |                 |
+| 56  | Calendar App                          |        |                 |
+| 57  | E-commerce                            |        |                 |
+| 58  | Travels reservations app              |        |                 |
+| 59  | E-learning                            |        |                 |
+| 60  | Pokemon battle                        |        |                 |
+| 61  | Coding Battle                         |        |                 |
+| 62  | Portfolio                             |        |                 |
+
  
 <div>
 <p align="right"><a href="#top">Back to top 🔼</a></p>
-
-### Movile Aplications
-
-
-|  #  | Challenge                            | Status |  Para portafolio |
-|----|---------------------------------------|--------|------------------|
-| 69 | Interfaz de Smartwatch              |        | |
-| 70 | App del Clima                       |        ||
-| 71 | App de Finanzas Personales          |        ||
-| 72 | App Date Selector                   |        ||
-| 73 | Tamagotchi                          |        ||
-| 74 | Sistema de Calificaciones           |        ||
-| 75 | Habbit Tracker                      |        ||
-
 
 
 ### Extra
 
 |  #  | Challenge                                     | Status |  Para portafolio |
 |----|------------------------------------------------|--------|------------------|
-| 76 | Snippet                                      |        | |
-| 77 | Sistema de Automatización de Mensajes        |        | |
-| 78 | Filtro para TikTok                           |        | |
-| 95 | Minecraft Mod                                |        | |
-| 96 | Wiki "Recetas de Crafteo Minecraft"          |        | |
-| 97 | Endless Runner                               |        | |
-| 98 | Among Us para Programadores                 |        | |
-|100 | Extensión de Google Chrome                   |        | |
+|  | Snippet                                      |        | |
+|  | Sistema de Automatización de Mensajes        |        | |
+|  | Filtro para TikTok                           |        | |
+|  | Minecraft Mod                                |        | |
+|  | Wiki "Recetas de Crafteo Minecraft"          |        | |
+|  | Endless Runner                               |        | |
+|  | Among Us para Programadores                 |        | |
+|  | Extensión de Google Chrome                   |        | |
 
 
 <p align="right"><a href="#top">Back to top 🔼</a></p>
