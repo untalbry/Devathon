@@ -15,7 +15,7 @@
 <br>
 
 > [!IMPORTANT]
-> Si quieres añadir un reto a los 100 proyectos abre un issue con el titulo del proyecto y las especificaciones del mismo 
+> Si quieres añadir un reto a los proyectos abre un issue con el titulo del proyecto y las especificaciones del mismo 
 > Es importante que coloques bien los requisitos para saber en que número lo colocamos
 > 
 <hr>
@@ -473,9 +473,9 @@ done
 ## To do list ✅
 <div style="text-align: center">
 
-|  #  | Challenge                        | Status | Para portafolio |
-|----|-----------------------------------|--------|-----------------|
-|  1  | Hello World                      |    ✅  |                 |
+|  #  | Challenge                                                      | Status | Para portafolio |
+|----|-----------------------------------------------------------------|--------|-----------------|
+|  1  | <a href = "https://github.com/xVrzBx/HelloWord">Hello World</a>|    ✅  |                 |
 |  2  | Business Card                    |    ✅  |                 |
 |  3  | Currency Calculator              |    ✅  |                 |
 |  4  | Binary and Decimal Converter     |    ✅  |                 |
