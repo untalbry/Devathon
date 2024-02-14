@@ -480,7 +480,7 @@ done
 |  3  | Currency Calculator              |    ✅  |                 |
 |  4  | Binary and Decimal Converter     |    ✅  |                 |
 |  5  | Tips calculator                  |    ✅  |                 |
-|  6  | Scientific calculator            |        |                 |
+|  6  | Calculator                       |        |                 |
 |  7  | Color visualizer                 |        |                 |
 |  8  | Password Generator               |        |                 |
 |  9  | Pomodoro Timer                   |        |                 |
