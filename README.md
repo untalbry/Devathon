@@ -29,10 +29,11 @@
 </p>
 
 ## Binary Brains Club? 
+![Diseño sin título](https://github.com/user-attachments/assets/3a17b901-2264-485d-b7a8-cb6609bef17a)
 
-   <img align="left" width="300" src="https://github.com/xVrzBx/100Days100Proyects/assets/91161604/4a45945d-5357-4e4f-80b7-0fb4ef25dfd0" />
 
-<p align="left">
+
+<p >
   <strong><a href="https://www.instagram.com/bbupiicsa/">Binary Brains</a> </strong>es un club de desarrollo de software que se dedica a proporcionar un entorno propicio para el crecimiento profesional de los entusiastas del desarrollo de software. Su misión abarca la creación de un ambiente seguro y respetuoso que valore a todos los miembros en su viaje de aprendizaje, ofreciendo recursos de alta calidad, capacitación y tutoría para mejorar habilidades técnicas, fomentar la innovación y promover la participación activa en eventos colaborativos.
   </p>
 <br>
